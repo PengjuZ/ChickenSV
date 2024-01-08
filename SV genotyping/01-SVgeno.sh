@@ -31,6 +31,6 @@ Fastq2=$RunOUT/$ID\_2.QC.fastq.gz
 cp $Index/WChang.gg $RunOUT/$ID.gg
 vg giraffe -x $Index/WChang.xg -g $RunOUT/$ID.gg -H $Index/WChang.gbwt -m $Index/WChang.min -d $Index/WChang.dist -f $Fastq1 -f $Fastq2 -t $Thread -b fast -N $ID -p > $RunOUT/$ID.gam
 vg pack -Q 5 -x $Index/WChang.xg -g $RunOUT/$ID.gam -o $RunOUT/$ID.pack -t $Thread
-vg call $Index/WChang.xg -r $Index/WChang.snarls -k $RunOUT/$ID.pack -s $ID -v $Index/WChang.vcf -t $Thread --bias-mode --het-bias 2,4 > $WorkDir/$ID/SV.genotype1.vcf
+vg call $Index/WChang.xg -r $Index/WChang.snarls -k $RunOUT/$ID.pack -s $ID -v $Index/WChang.vcf -t $Thread --bias-mode --het-bias 2,4 > $WorkDir/$ID/SV.genotype.vcf
 rm -rf $WorkDir/$ID/SVrun
 done
