@@ -7,7 +7,7 @@ Genome assembly, genome annotation:
 
 
 
-SV genotyping:
+SV calling and genotyping:
 
 ![图片3](https://github.com/PengjuZ/ChickenSV/assets/109416356/dab5a548-2dad-4954-a4a1-c267204fe7b9)
 
