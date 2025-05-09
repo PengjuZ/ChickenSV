@@ -1,1 +1,1 @@
-# Identification of candidate regions related to feather color.
+# Identification of candidate regions related to feather color
