@@ -1,1 +1,1 @@
-#  Characteristics of structural variation in chicken.
+#  Characteristics of structural variation in chicken
