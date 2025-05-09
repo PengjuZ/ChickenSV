@@ -1,1 +1,1 @@
-# Candidate lncRNA associated with chicken feather color.
+# Candidate lncRNA associated with chicken feather color
