@@ -1,1 +1,1 @@
-# Association of structural variants with putative regulatory regions.
+# Association of structural variants with putative regulatory regions
