@@ -1,1 +1,1 @@
-# Exploring the role of structural variation in feather color.
+# Exploring the role of structural variation in feather color
