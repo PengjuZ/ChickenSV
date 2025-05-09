@@ -1,1 +1,1 @@
-# Roles of structural variation in chicken genetic structure.
+# Roles of structural variation in chicken genetic structure
