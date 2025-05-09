@@ -1,0 +1,2124 @@
+BL10	Graph-based	Insertion	812
+BL10	Graph-based	Deletion	1258
+BL10	Graph-based	All SVs	2070
+BL10	Reads-based	Insertion	7
+BL10	Reads-based	Deletion	1857
+BL10	Reads-based	All SVs	1864
+BL11	Graph-based	Insertion	1599
+BL11	Graph-based	Deletion	1618
+BL11	Graph-based	All SVs	3217
+BL11	Reads-based	Insertion	26
+BL11	Reads-based	Deletion	2390
+BL11	Reads-based	All SVs	2416
+BL12	Graph-based	Insertion	1620
+BL12	Graph-based	Deletion	1552
+BL12	Graph-based	All SVs	3172
+BL12	Reads-based	Insertion	19
+BL12	Reads-based	Deletion	2383
+BL12	Reads-based	All SVs	2402
+BL13	Graph-based	Insertion	2074
+BL13	Graph-based	Deletion	1675
+BL13	Graph-based	All SVs	3749
+BL13	Reads-based	Insertion	45
+BL13	Reads-based	Deletion	2780
+BL13	Reads-based	All SVs	2825
+BL14	Graph-based	Insertion	2031
+BL14	Graph-based	Deletion	1627
+BL14	Graph-based	All SVs	3658
+BL14	Reads-based	Insertion	40
+BL14	Reads-based	Deletion	2661
+BL14	Reads-based	All SVs	2701
+BL15	Graph-based	Insertion	1665
+BL15	Graph-based	Deletion	1585
+BL15	Graph-based	All SVs	3250
+BL15	Reads-based	Insertion	27
+BL15	Reads-based	Deletion	2458
+BL15	Reads-based	All SVs	2485
+BL16	Graph-based	Insertion	1306
+BL16	Graph-based	Deletion	1459
+BL16	Graph-based	All SVs	2765
+BL16	Reads-based	Insertion	14
+BL16	Reads-based	Deletion	2219
+BL16	Reads-based	All SVs	2233
+BL17	Graph-based	Insertion	1498
+BL17	Graph-based	Deletion	1529
+BL17	Graph-based	All SVs	3027
+BL17	Reads-based	Insertion	18
+BL17	Reads-based	Deletion	2187
+BL17	Reads-based	All SVs	2205
+BL18	Graph-based	Insertion	1652
+BL18	Graph-based	Deletion	1525
+BL18	Graph-based	All SVs	3177
+BL18	Reads-based	Insertion	20
+BL18	Reads-based	Deletion	2227
+BL18	Reads-based	All SVs	2247
+BL19	Graph-based	Insertion	1461
+BL19	Graph-based	Deletion	1545
+BL19	Graph-based	All SVs	3006
+BL19	Reads-based	Insertion	12
+BL19	Reads-based	Deletion	2273
+BL19	Reads-based	All SVs	2285
+BL1	Graph-based	Insertion	1728
+BL1	Graph-based	Deletion	1630
+BL1	Graph-based	All SVs	3358
+BL1	Reads-based	Insertion	21
+BL1	Reads-based	Deletion	2366
+BL1	Reads-based	All SVs	2387
+BL20	Graph-based	Insertion	1583
+BL20	Graph-based	Deletion	1588
+BL20	Graph-based	All SVs	3171
+BL20	Reads-based	Insertion	23
+BL20	Reads-based	Deletion	2284
+BL20	Reads-based	All SVs	2307
+BL21	Graph-based	Insertion	2796
+BL21	Graph-based	Deletion	1892
+BL21	Graph-based	All SVs	4688
+BL21	Reads-based	Insertion	73
+BL21	Reads-based	Deletion	3265
+BL21	Reads-based	All SVs	3338
+BL22	Graph-based	Insertion	2410
+BL22	Graph-based	Deletion	1792
+BL22	Graph-based	All SVs	4202
+BL22	Reads-based	Insertion	55
+BL22	Reads-based	Deletion	2978
+BL22	Reads-based	All SVs	3033
+BL23	Graph-based	Insertion	2429
+BL23	Graph-based	Deletion	1784
+BL23	Graph-based	All SVs	4213
+BL23	Reads-based	Insertion	62
+BL23	Reads-based	Deletion	3107
+BL23	Reads-based	All SVs	3169
+BL24	Graph-based	Insertion	3360
+BL24	Graph-based	Deletion	1849
+BL24	Graph-based	All SVs	5209
+BL24	Reads-based	Insertion	0
+BL24	Reads-based	Deletion	704
+BL24	Reads-based	All SVs	704
+BL25	Graph-based	Insertion	3534
+BL25	Graph-based	Deletion	1717
+BL25	Graph-based	All SVs	5251
+BL25	Reads-based	Insertion	0
+BL25	Reads-based	Deletion	740
+BL25	Reads-based	All SVs	740
+BL2	Graph-based	Insertion	1281
+BL2	Graph-based	Deletion	1434
+BL2	Graph-based	All SVs	2715
+BL2	Reads-based	Insertion	11
+BL2	Reads-based	Deletion	2114
+BL2	Reads-based	All SVs	2125
+BL3	Graph-based	Insertion	1891
+BL3	Graph-based	Deletion	1655
+BL3	Graph-based	All SVs	3546
+BL3	Reads-based	Insertion	26
+BL3	Reads-based	Deletion	2616
+BL3	Reads-based	All SVs	2642
+BL4	Graph-based	Insertion	2159
+BL4	Graph-based	Deletion	1697
+BL4	Graph-based	All SVs	3856
+BL4	Reads-based	Insertion	55
+BL4	Reads-based	Deletion	2748
+BL4	Reads-based	All SVs	2803
+BL5	Graph-based	Insertion	1935
+BL5	Graph-based	Deletion	1666
+BL5	Graph-based	All SVs	3601
+BL5	Reads-based	Insertion	22
+BL5	Reads-based	Deletion	2586
+BL5	Reads-based	All SVs	2608
+BL6	Graph-based	Insertion	1616
+BL6	Graph-based	Deletion	1606
+BL6	Graph-based	All SVs	3222
+BL6	Reads-based	Insertion	17
+BL6	Reads-based	Deletion	2376
+BL6	Reads-based	All SVs	2393
+BL7	Graph-based	Insertion	1713
+BL7	Graph-based	Deletion	1564
+BL7	Graph-based	All SVs	3277
+BL7	Reads-based	Insertion	23
+BL7	Reads-based	Deletion	2452
+BL7	Reads-based	All SVs	2475
+BL8	Graph-based	Insertion	1775
+BL8	Graph-based	Deletion	1647
+BL8	Graph-based	All SVs	3422
+BL8	Reads-based	Insertion	29
+BL8	Reads-based	Deletion	2510
+BL8	Reads-based	All SVs	2539
+BL9	Graph-based	Insertion	3749
+BL9	Graph-based	Deletion	2014
+BL9	Graph-based	All SVs	5763
+BL9	Reads-based	Insertion	151
+BL9	Reads-based	Deletion	4206
+BL9	Reads-based	All SVs	4357
+BRA10	Graph-based	Insertion	3403
+BRA10	Graph-based	Deletion	1900
+BRA10	Graph-based	All SVs	5303
+BRA10	Reads-based	Insertion	160
+BRA10	Reads-based	Deletion	2617
+BRA10	Reads-based	All SVs	2777
+BRA11	Graph-based	Insertion	3812
+BRA11	Graph-based	Deletion	1950
+BRA11	Graph-based	All SVs	5762
+BRA11	Reads-based	Insertion	159
+BRA11	Reads-based	Deletion	2760
+BRA11	Reads-based	All SVs	2919
+BRA12	Graph-based	Insertion	3884
+BRA12	Graph-based	Deletion	1927
+BRA12	Graph-based	All SVs	5811
+BRA12	Reads-based	Insertion	176
+BRA12	Reads-based	Deletion	2760
+BRA12	Reads-based	All SVs	2936
+BRA13	Graph-based	Insertion	4177
+BRA13	Graph-based	Deletion	1967
+BRA13	Graph-based	All SVs	6144
+BRA13	Reads-based	Insertion	180
+BRA13	Reads-based	Deletion	3009
+BRA13	Reads-based	All SVs	3189
+BRA14	Graph-based	Insertion	3741
+BRA14	Graph-based	Deletion	1900
+BRA14	Graph-based	All SVs	5641
+BRA14	Reads-based	Insertion	149
+BRA14	Reads-based	Deletion	2710
+BRA14	Reads-based	All SVs	2859
+BRA15	Graph-based	Insertion	3768
+BRA15	Graph-based	Deletion	1945
+BRA15	Graph-based	All SVs	5713
+BRA15	Reads-based	Insertion	149
+BRA15	Reads-based	Deletion	2746
+BRA15	Reads-based	All SVs	2895
+BRA16	Graph-based	Insertion	3661
+BRA16	Graph-based	Deletion	1913
+BRA16	Graph-based	All SVs	5574
+BRA16	Reads-based	Insertion	162
+BRA16	Reads-based	Deletion	2659
+BRA16	Reads-based	All SVs	2821
+BRA17	Graph-based	Insertion	3694
+BRA17	Graph-based	Deletion	1934
+BRA17	Graph-based	All SVs	5628
+BRA17	Reads-based	Insertion	132
+BRA17	Reads-based	Deletion	2846
+BRA17	Reads-based	All SVs	2978
+BRA18	Graph-based	Insertion	3608
+BRA18	Graph-based	Deletion	1825
+BRA18	Graph-based	All SVs	5433
+BRA18	Reads-based	Insertion	141
+BRA18	Reads-based	Deletion	2477
+BRA18	Reads-based	All SVs	2618
+BRA19	Graph-based	Insertion	3869
+BRA19	Graph-based	Deletion	1969
+BRA19	Graph-based	All SVs	5838
+BRA19	Reads-based	Insertion	210
+BRA19	Reads-based	Deletion	3010
+BRA19	Reads-based	All SVs	3220
+BRA1	Graph-based	Insertion	3714
+BRA1	Graph-based	Deletion	1982
+BRA1	Graph-based	All SVs	5696
+BRA1	Reads-based	Insertion	133
+BRA1	Reads-based	Deletion	2768
+BRA1	Reads-based	All SVs	2901
+BRA20	Graph-based	Insertion	3715
+BRA20	Graph-based	Deletion	1780
+BRA20	Graph-based	All SVs	5495
+BRA20	Reads-based	Insertion	165
+BRA20	Reads-based	Deletion	2564
+BRA20	Reads-based	All SVs	2729
+BRA2	Graph-based	Insertion	3522
+BRA2	Graph-based	Deletion	1947
+BRA2	Graph-based	All SVs	5469
+BRA2	Reads-based	Insertion	132
+BRA2	Reads-based	Deletion	2633
+BRA2	Reads-based	All SVs	2765
+BRA3	Graph-based	Insertion	4035
+BRA3	Graph-based	Deletion	2002
+BRA3	Graph-based	All SVs	6037
+BRA3	Reads-based	Insertion	171
+BRA3	Reads-based	Deletion	2860
+BRA3	Reads-based	All SVs	3031
+BRA4	Graph-based	Insertion	3490
+BRA4	Graph-based	Deletion	1803
+BRA4	Graph-based	All SVs	5293
+BRA4	Reads-based	Insertion	153
+BRA4	Reads-based	Deletion	2620
+BRA4	Reads-based	All SVs	2773
+BRA5	Graph-based	Insertion	3826
+BRA5	Graph-based	Deletion	1985
+BRA5	Graph-based	All SVs	5811
+BRA5	Reads-based	Insertion	177
+BRA5	Reads-based	Deletion	2774
+BRA5	Reads-based	All SVs	2951
+BRA6	Graph-based	Insertion	3667
+BRA6	Graph-based	Deletion	1878
+BRA6	Graph-based	All SVs	5545
+BRA6	Reads-based	Insertion	145
+BRA6	Reads-based	Deletion	2650
+BRA6	Reads-based	All SVs	2795
+BRA7	Graph-based	Insertion	3585
+BRA7	Graph-based	Deletion	1928
+BRA7	Graph-based	All SVs	5513
+BRA7	Reads-based	Insertion	160
+BRA7	Reads-based	Deletion	2619
+BRA7	Reads-based	All SVs	2779
+BRA8	Graph-based	Insertion	3250
+BRA8	Graph-based	Deletion	1901
+BRA8	Graph-based	All SVs	5151
+BRA8	Reads-based	Insertion	151
+BRA8	Reads-based	Deletion	2460
+BRA8	Reads-based	All SVs	2611
+BRA9	Graph-based	Insertion	3860
+BRA9	Graph-based	Deletion	1944
+BRA9	Graph-based	All SVs	5804
+BRA9	Reads-based	Insertion	154
+BRA9	Reads-based	Deletion	2817
+BRA9	Reads-based	All SVs	2971
+BRB10	Graph-based	Insertion	3512
+BRB10	Graph-based	Deletion	1829
+BRB10	Graph-based	All SVs	5341
+BRB10	Reads-based	Insertion	166
+BRB10	Reads-based	Deletion	2413
+BRB10	Reads-based	All SVs	2579
+BRB11	Graph-based	Insertion	3420
+BRB11	Graph-based	Deletion	1814
+BRB11	Graph-based	All SVs	5234
+BRB11	Reads-based	Insertion	145
+BRB11	Reads-based	Deletion	2456
+BRB11	Reads-based	All SVs	2601
+BRB12	Graph-based	Insertion	3769
+BRB12	Graph-based	Deletion	1868
+BRB12	Graph-based	All SVs	5637
+BRB12	Reads-based	Insertion	153
+BRB12	Reads-based	Deletion	2579
+BRB12	Reads-based	All SVs	2732
+BRB13	Graph-based	Insertion	3673
+BRB13	Graph-based	Deletion	1911
+BRB13	Graph-based	All SVs	5584
+BRB13	Reads-based	Insertion	164
+BRB13	Reads-based	Deletion	2531
+BRB13	Reads-based	All SVs	2695
+BRB14	Graph-based	Insertion	3770
+BRB14	Graph-based	Deletion	1874
+BRB14	Graph-based	All SVs	5644
+BRB14	Reads-based	Insertion	162
+BRB14	Reads-based	Deletion	2557
+BRB14	Reads-based	All SVs	2719
+BRB15	Graph-based	Insertion	3667
+BRB15	Graph-based	Deletion	1843
+BRB15	Graph-based	All SVs	5510
+BRB15	Reads-based	Insertion	165
+BRB15	Reads-based	Deletion	2565
+BRB15	Reads-based	All SVs	2730
+BRB16	Graph-based	Insertion	3688
+BRB16	Graph-based	Deletion	1923
+BRB16	Graph-based	All SVs	5611
+BRB16	Reads-based	Insertion	136
+BRB16	Reads-based	Deletion	2647
+BRB16	Reads-based	All SVs	2783
+BRB17	Graph-based	Insertion	3541
+BRB17	Graph-based	Deletion	1826
+BRB17	Graph-based	All SVs	5367
+BRB17	Reads-based	Insertion	172
+BRB17	Reads-based	Deletion	2447
+BRB17	Reads-based	All SVs	2619
+BRB18	Graph-based	Insertion	3416
+BRB18	Graph-based	Deletion	1806
+BRB18	Graph-based	All SVs	5222
+BRB18	Reads-based	Insertion	152
+BRB18	Reads-based	Deletion	2456
+BRB18	Reads-based	All SVs	2608
+BRB19	Graph-based	Insertion	3601
+BRB19	Graph-based	Deletion	1894
+BRB19	Graph-based	All SVs	5495
+BRB19	Reads-based	Insertion	142
+BRB19	Reads-based	Deletion	2509
+BRB19	Reads-based	All SVs	2651
+BRB1	Graph-based	Insertion	3721
+BRB1	Graph-based	Deletion	1840
+BRB1	Graph-based	All SVs	5561
+BRB1	Reads-based	Insertion	156
+BRB1	Reads-based	Deletion	2431
+BRB1	Reads-based	All SVs	2587
+BRB20	Graph-based	Insertion	3993
+BRB20	Graph-based	Deletion	1916
+BRB20	Graph-based	All SVs	5909
+BRB20	Reads-based	Insertion	158
+BRB20	Reads-based	Deletion	2768
+BRB20	Reads-based	All SVs	2926
+BRB2	Graph-based	Insertion	3402
+BRB2	Graph-based	Deletion	1793
+BRB2	Graph-based	All SVs	5195
+BRB2	Reads-based	Insertion	134
+BRB2	Reads-based	Deletion	2344
+BRB2	Reads-based	All SVs	2478
+BRB3	Graph-based	Insertion	3709
+BRB3	Graph-based	Deletion	1913
+BRB3	Graph-based	All SVs	5622
+BRB3	Reads-based	Insertion	185
+BRB3	Reads-based	Deletion	2574
+BRB3	Reads-based	All SVs	2759
+BRB4	Graph-based	Insertion	3845
+BRB4	Graph-based	Deletion	1888
+BRB4	Graph-based	All SVs	5733
+BRB4	Reads-based	Insertion	171
+BRB4	Reads-based	Deletion	2575
+BRB4	Reads-based	All SVs	2746
+BRB5	Graph-based	Insertion	3630
+BRB5	Graph-based	Deletion	1872
+BRB5	Graph-based	All SVs	5502
+BRB5	Reads-based	Insertion	150
+BRB5	Reads-based	Deletion	2478
+BRB5	Reads-based	All SVs	2628
+BRB6	Graph-based	Insertion	3720
+BRB6	Graph-based	Deletion	1843
+BRB6	Graph-based	All SVs	5563
+BRB6	Reads-based	Insertion	157
+BRB6	Reads-based	Deletion	2608
+BRB6	Reads-based	All SVs	2765
+BRB7	Graph-based	Insertion	3558
+BRB7	Graph-based	Deletion	1872
+BRB7	Graph-based	All SVs	5430
+BRB7	Reads-based	Insertion	127
+BRB7	Reads-based	Deletion	2509
+BRB7	Reads-based	All SVs	2636
+BRB8	Graph-based	Insertion	2972
+BRB8	Graph-based	Deletion	1767
+BRB8	Graph-based	All SVs	4739
+BRB8	Reads-based	Insertion	115
+BRB8	Reads-based	Deletion	2235
+BRB8	Reads-based	All SVs	2350
+BRB9	Graph-based	Insertion	4174
+BRB9	Graph-based	Deletion	1975
+BRB9	Graph-based	All SVs	6149
+BRB9	Reads-based	Insertion	187
+BRB9	Reads-based	Deletion	2843
+BRB9	Reads-based	All SVs	3030
+CBG10	Graph-based	Insertion	2041
+CBG10	Graph-based	Deletion	1840
+CBG10	Graph-based	All SVs	3881
+CBG10	Reads-based	Insertion	1
+CBG10	Reads-based	Deletion	900
+CBG10	Reads-based	All SVs	901
+CBG1	Graph-based	Insertion	4413
+CBG1	Graph-based	Deletion	2250
+CBG1	Graph-based	All SVs	6663
+CBG1	Reads-based	Insertion	7
+CBG1	Reads-based	Deletion	1911
+CBG1	Reads-based	All SVs	1918
+CBG2	Graph-based	Insertion	4550
+CBG2	Graph-based	Deletion	2162
+CBG2	Graph-based	All SVs	6712
+CBG2	Reads-based	Insertion	6
+CBG2	Reads-based	Deletion	1892
+CBG2	Reads-based	All SVs	1898
+CBG3	Graph-based	Insertion	4303
+CBG3	Graph-based	Deletion	2205
+CBG3	Graph-based	All SVs	6508
+CBG3	Reads-based	Insertion	7
+CBG3	Reads-based	Deletion	1775
+CBG3	Reads-based	All SVs	1782
+CBG4	Graph-based	Insertion	5777
+CBG4	Graph-based	Deletion	2560
+CBG4	Graph-based	All SVs	8337
+CBG4	Reads-based	Insertion	15
+CBG4	Reads-based	Deletion	2800
+CBG4	Reads-based	All SVs	2815
+CBG5	Graph-based	Insertion	5411
+CBG5	Graph-based	Deletion	2395
+CBG5	Graph-based	All SVs	7806
+CBG5	Reads-based	Insertion	5
+CBG5	Reads-based	Deletion	2214
+CBG5	Reads-based	All SVs	2219
+CBG6	Graph-based	Insertion	5501
+CBG6	Graph-based	Deletion	2417
+CBG6	Graph-based	All SVs	7918
+CBG6	Reads-based	Insertion	6
+CBG6	Reads-based	Deletion	2312
+CBG6	Reads-based	All SVs	2318
+CBG7	Graph-based	Insertion	5599
+CBG7	Graph-based	Deletion	2526
+CBG7	Graph-based	All SVs	8125
+CBG7	Reads-based	Insertion	17
+CBG7	Reads-based	Deletion	2659
+CBG7	Reads-based	All SVs	2676
+CBG8	Graph-based	Insertion	5902
+CBG8	Graph-based	Deletion	2513
+CBG8	Graph-based	All SVs	8415
+CBG8	Reads-based	Insertion	19
+CBG8	Reads-based	Deletion	3142
+CBG8	Reads-based	All SVs	3161
+CBG9	Graph-based	Insertion	1996
+CBG9	Graph-based	Deletion	1766
+CBG9	Graph-based	All SVs	3762
+CBG9	Reads-based	Insertion	3
+CBG9	Reads-based	Deletion	894
+CBG9	Reads-based	All SVs	897
+CBM10	Graph-based	Insertion	2833
+CBM10	Graph-based	Deletion	1865
+CBM10	Graph-based	All SVs	4698
+CBM10	Reads-based	Insertion	2
+CBM10	Reads-based	Deletion	954
+CBM10	Reads-based	All SVs	956
+CBM1	Graph-based	Insertion	4695
+CBM1	Graph-based	Deletion	2030
+CBM1	Graph-based	All SVs	6725
+CBM1	Reads-based	Insertion	4
+CBM1	Reads-based	Deletion	1279
+CBM1	Reads-based	All SVs	1283
+CBM2	Graph-based	Insertion	4909
+CBM2	Graph-based	Deletion	2346
+CBM2	Graph-based	All SVs	7255
+CBM2	Reads-based	Insertion	10
+CBM2	Reads-based	Deletion	1955
+CBM2	Reads-based	All SVs	1965
+CBM3	Graph-based	Insertion	4617
+CBM3	Graph-based	Deletion	2092
+CBM3	Graph-based	All SVs	6709
+CBM3	Reads-based	Insertion	6
+CBM3	Reads-based	Deletion	1572
+CBM3	Reads-based	All SVs	1578
+CBM4	Graph-based	Insertion	4801
+CBM4	Graph-based	Deletion	2357
+CBM4	Graph-based	All SVs	7158
+CBM4	Reads-based	Insertion	3
+CBM4	Reads-based	Deletion	1766
+CBM4	Reads-based	All SVs	1769
+CBM5	Graph-based	Insertion	5158
+CBM5	Graph-based	Deletion	2267
+CBM5	Graph-based	All SVs	7425
+CBM5	Reads-based	Insertion	6
+CBM5	Reads-based	Deletion	1766
+CBM5	Reads-based	All SVs	1772
+CBM6	Graph-based	Insertion	5539
+CBM6	Graph-based	Deletion	2392
+CBM6	Graph-based	All SVs	7931
+CBM6	Reads-based	Insertion	9
+CBM6	Reads-based	Deletion	1971
+CBM6	Reads-based	All SVs	1980
+CBM7	Graph-based	Insertion	4394
+CBM7	Graph-based	Deletion	2217
+CBM7	Graph-based	All SVs	6611
+CBM7	Reads-based	Insertion	6
+CBM7	Reads-based	Deletion	1433
+CBM7	Reads-based	All SVs	1439
+CBM8	Graph-based	Insertion	2443
+CBM8	Graph-based	Deletion	1854
+CBM8	Graph-based	All SVs	4297
+CBM8	Reads-based	Insertion	0
+CBM8	Reads-based	Deletion	919
+CBM8	Reads-based	All SVs	919
+CBM9	Graph-based	Insertion	3722
+CBM9	Graph-based	Deletion	2004
+CBM9	Graph-based	All SVs	5726
+CBM9	Reads-based	Insertion	1
+CBM9	Reads-based	Deletion	1290
+CBM9	Reads-based	All SVs	1291
+CKG10	Graph-based	Insertion	4048
+CKG10	Graph-based	Deletion	2269
+CKG10	Graph-based	All SVs	6317
+CKG10	Reads-based	Insertion	7
+CKG10	Reads-based	Deletion	1695
+CKG10	Reads-based	All SVs	1702
+CKG1	Graph-based	Insertion	4254
+CKG1	Graph-based	Deletion	2287
+CKG1	Graph-based	All SVs	6541
+CKG1	Reads-based	Insertion	6
+CKG1	Reads-based	Deletion	2206
+CKG1	Reads-based	All SVs	2212
+CKG2	Graph-based	Insertion	5190
+CKG2	Graph-based	Deletion	2466
+CKG2	Graph-based	All SVs	7656
+CKG2	Reads-based	Insertion	9
+CKG2	Reads-based	Deletion	2415
+CKG2	Reads-based	All SVs	2424
+CKG3	Graph-based	Insertion	4534
+CKG3	Graph-based	Deletion	2362
+CKG3	Graph-based	All SVs	6896
+CKG3	Reads-based	Insertion	10
+CKG3	Reads-based	Deletion	2071
+CKG3	Reads-based	All SVs	2081
+CKG4	Graph-based	Insertion	5116
+CKG4	Graph-based	Deletion	2396
+CKG4	Graph-based	All SVs	7512
+CKG4	Reads-based	Insertion	14
+CKG4	Reads-based	Deletion	2279
+CKG4	Reads-based	All SVs	2293
+CKG5	Graph-based	Insertion	4554
+CKG5	Graph-based	Deletion	2495
+CKG5	Graph-based	All SVs	7049
+CKG5	Reads-based	Insertion	7
+CKG5	Reads-based	Deletion	2003
+CKG5	Reads-based	All SVs	2010
+CKG6	Graph-based	Insertion	4585
+CKG6	Graph-based	Deletion	2453
+CKG6	Graph-based	All SVs	7038
+CKG6	Reads-based	Insertion	8
+CKG6	Reads-based	Deletion	1917
+CKG6	Reads-based	All SVs	1925
+CKG7	Graph-based	Insertion	4933
+CKG7	Graph-based	Deletion	2490
+CKG7	Graph-based	All SVs	7423
+CKG7	Reads-based	Insertion	16
+CKG7	Reads-based	Deletion	2227
+CKG7	Reads-based	All SVs	2243
+CKG8	Graph-based	Insertion	4874
+CKG8	Graph-based	Deletion	2532
+CKG8	Graph-based	All SVs	7406
+CKG8	Reads-based	Insertion	11
+CKG8	Reads-based	Deletion	2206
+CKG8	Reads-based	All SVs	2217
+CKG9	Graph-based	Insertion	4913
+CKG9	Graph-based	Deletion	2495
+CKG9	Graph-based	All SVs	7408
+CKG9	Reads-based	Insertion	13
+CKG9	Reads-based	Deletion	2134
+CKG9	Reads-based	All SVs	2147
+CKM10	Graph-based	Insertion	3970
+CKM10	Graph-based	Deletion	2191
+CKM10	Graph-based	All SVs	6161
+CKM10	Reads-based	Insertion	2
+CKM10	Reads-based	Deletion	1147
+CKM10	Reads-based	All SVs	1149
+CKM1	Graph-based	Insertion	4692
+CKM1	Graph-based	Deletion	2255
+CKM1	Graph-based	All SVs	6947
+CKM1	Reads-based	Insertion	4
+CKM1	Reads-based	Deletion	1505
+CKM1	Reads-based	All SVs	1509
+CKM2	Graph-based	Insertion	5768
+CKM2	Graph-based	Deletion	2485
+CKM2	Graph-based	All SVs	8253
+CKM2	Reads-based	Insertion	17
+CKM2	Reads-based	Deletion	2691
+CKM2	Reads-based	All SVs	2708
+CKM3	Graph-based	Insertion	4545
+CKM3	Graph-based	Deletion	2196
+CKM3	Graph-based	All SVs	6741
+CKM3	Reads-based	Insertion	2
+CKM3	Reads-based	Deletion	1708
+CKM3	Reads-based	All SVs	1710
+CKM4	Graph-based	Insertion	4594
+CKM4	Graph-based	Deletion	2163
+CKM4	Graph-based	All SVs	6757
+CKM4	Reads-based	Insertion	1
+CKM4	Reads-based	Deletion	1616
+CKM4	Reads-based	All SVs	1617
+CKM5	Graph-based	Insertion	4813
+CKM5	Graph-based	Deletion	2343
+CKM5	Graph-based	All SVs	7156
+CKM5	Reads-based	Insertion	1
+CKM5	Reads-based	Deletion	1599
+CKM5	Reads-based	All SVs	1600
+CKM6	Graph-based	Insertion	4594
+CKM6	Graph-based	Deletion	2320
+CKM6	Graph-based	All SVs	6914
+CKM6	Reads-based	Insertion	10
+CKM6	Reads-based	Deletion	2089
+CKM6	Reads-based	All SVs	2099
+CKM7	Graph-based	Insertion	3924
+CKM7	Graph-based	Deletion	2170
+CKM7	Graph-based	All SVs	6094
+CKM7	Reads-based	Insertion	2
+CKM7	Reads-based	Deletion	1505
+CKM7	Reads-based	All SVs	1507
+CKM8	Graph-based	Insertion	4351
+CKM8	Graph-based	Deletion	2232
+CKM8	Graph-based	All SVs	6583
+CKM8	Reads-based	Insertion	1
+CKM8	Reads-based	Deletion	1405
+CKM8	Reads-based	All SVs	1406
+CKM9	Graph-based	Insertion	5261
+CKM9	Graph-based	Deletion	2389
+CKM9	Graph-based	All SVs	7650
+CKM9	Reads-based	Insertion	10
+CKM9	Reads-based	Deletion	1938
+CKM9	Reads-based	All SVs	1948
+CU3G42	Graph-based	Insertion	5095
+CU3G42	Graph-based	Deletion	2397
+CU3G42	Graph-based	All SVs	7492
+CU3G42	Reads-based	Insertion	5
+CU3G42	Reads-based	Deletion	1913
+CU3G42	Reads-based	All SVs	1918
+CU3G4_4	Graph-based	Insertion	4603
+CU3G4_4	Graph-based	Deletion	2385
+CU3G4_4	Graph-based	All SVs	6988
+CU3G4_4	Reads-based	Insertion	4
+CU3G4_4	Reads-based	Deletion	2055
+CU3G4_4	Reads-based	All SVs	2059
+CU3G47	Graph-based	Insertion	5368
+CU3G47	Graph-based	Deletion	2460
+CU3G47	Graph-based	All SVs	7828
+CU3G47	Reads-based	Insertion	15
+CU3G47	Reads-based	Deletion	2633
+CU3G47	Reads-based	All SVs	2648
+CU3G511	Graph-based	Insertion	5133
+CU3G511	Graph-based	Deletion	2443
+CU3G511	Graph-based	All SVs	7576
+CU3G511	Reads-based	Insertion	7
+CU3G511	Reads-based	Deletion	1964
+CU3G511	Reads-based	All SVs	1971
+CU3G517	Graph-based	Insertion	4406
+CU3G517	Graph-based	Deletion	2364
+CU3G517	Graph-based	All SVs	6770
+CU3G517	Reads-based	Insertion	3
+CU3G517	Reads-based	Deletion	1880
+CU3G517	Reads-based	All SVs	1883
+CU3G525	Graph-based	Insertion	4919
+CU3G525	Graph-based	Deletion	2444
+CU3G525	Graph-based	All SVs	7363
+CU3G525	Reads-based	Insertion	6
+CU3G525	Reads-based	Deletion	2125
+CU3G525	Reads-based	All SVs	2131
+CU3G611	Graph-based	Insertion	4860
+CU3G611	Graph-based	Deletion	2371
+CU3G611	Graph-based	All SVs	7231
+CU3G611	Reads-based	Insertion	10
+CU3G611	Reads-based	Deletion	2524
+CU3G611	Reads-based	All SVs	2534
+CU3G632	Graph-based	Insertion	4453
+CU3G632	Graph-based	Deletion	2301
+CU3G632	Graph-based	All SVs	6754
+CU3G632	Reads-based	Insertion	8
+CU3G632	Reads-based	Deletion	1625
+CU3G632	Reads-based	All SVs	1633
+CU3G6_35	Graph-based	Insertion	4041
+CU3G6_35	Graph-based	Deletion	2287
+CU3G6_35	Graph-based	All SVs	6328
+CU3G6_35	Reads-based	Insertion	7
+CU3G6_35	Reads-based	Deletion	1667
+CU3G6_35	Reads-based	All SVs	1674
+CU3G6_5	Graph-based	Insertion	4468
+CU3G6_5	Graph-based	Deletion	2332
+CU3G6_5	Graph-based	All SVs	6800
+CU3G6_5	Reads-based	Insertion	5
+CU3G6_5	Reads-based	Deletion	1795
+CU3G6_5	Reads-based	All SVs	1800
+CU3M5133	Graph-based	Insertion	5057
+CU3M5133	Graph-based	Deletion	2370
+CU3M5133	Graph-based	All SVs	7427
+CU3M5133	Reads-based	Insertion	7
+CU3M5133	Reads-based	Deletion	1955
+CU3M5133	Reads-based	All SVs	1962
+CU3M5_146	Graph-based	Insertion	4606
+CU3M5_146	Graph-based	Deletion	1974
+CU3M5_146	Graph-based	All SVs	6580
+CU3M5_146	Reads-based	Insertion	8
+CU3M5_146	Reads-based	Deletion	1474
+CU3M5_146	Reads-based	All SVs	1482
+CU3M5176	Graph-based	Insertion	5215
+CU3M5176	Graph-based	Deletion	2353
+CU3M5176	Graph-based	All SVs	7568
+CU3M5176	Reads-based	Insertion	4
+CU3M5176	Reads-based	Deletion	1752
+CU3M5176	Reads-based	All SVs	1756
+CU3M5253	Graph-based	Insertion	5297
+CU3M5253	Graph-based	Deletion	2504
+CU3M5253	Graph-based	All SVs	7801
+CU3M5253	Reads-based	Insertion	18
+CU3M5253	Reads-based	Deletion	2336
+CU3M5253	Reads-based	All SVs	2354
+CU3M539	Graph-based	Insertion	3500
+CU3M539	Graph-based	Deletion	2196
+CU3M539	Graph-based	All SVs	5696
+CU3M539	Reads-based	Insertion	4
+CU3M539	Reads-based	Deletion	1237
+CU3M539	Reads-based	All SVs	1241
+CU3M616	Graph-based	Insertion	4611
+CU3M616	Graph-based	Deletion	2313
+CU3M616	Graph-based	All SVs	6924
+CU3M616	Reads-based	Insertion	3
+CU3M616	Reads-based	Deletion	1597
+CU3M616	Reads-based	All SVs	1600
+CU3M6_259	Graph-based	Insertion	5858
+CU3M6_259	Graph-based	Deletion	2451
+CU3M6_259	Graph-based	All SVs	8309
+CU3M6_259	Reads-based	Insertion	10
+CU3M6_259	Reads-based	Deletion	2123
+CU3M6_259	Reads-based	All SVs	2133
+CU3M625	Graph-based	Insertion	5170
+CU3M625	Graph-based	Deletion	2409
+CU3M625	Graph-based	All SVs	7579
+CU3M625	Reads-based	Insertion	4
+CU3M625	Reads-based	Deletion	2069
+CU3M625	Reads-based	All SVs	2073
+CU3M630	Graph-based	Insertion	4856
+CU3M630	Graph-based	Deletion	2223
+CU3M630	Graph-based	All SVs	7079
+CU3M630	Reads-based	Insertion	17
+CU3M630	Reads-based	Deletion	2377
+CU3M630	Reads-based	All SVs	2394
+CU3M6_38	Graph-based	Insertion	3907
+CU3M6_38	Graph-based	Deletion	2041
+CU3M6_38	Graph-based	All SVs	5948
+CU3M6_38	Reads-based	Insertion	5
+CU3M6_38	Reads-based	Deletion	1285
+CU3M6_38	Reads-based	All SVs	1290
+LAG15	Graph-based	Insertion	5294
+LAG15	Graph-based	Deletion	2531
+LAG15	Graph-based	All SVs	7825
+LAG15	Reads-based	Insertion	11
+LAG15	Reads-based	Deletion	2550
+LAG15	Reads-based	All SVs	2561
+LAG18	Graph-based	Insertion	5543
+LAG18	Graph-based	Deletion	2602
+LAG18	Graph-based	All SVs	8145
+LAG18	Reads-based	Insertion	14
+LAG18	Reads-based	Deletion	2585
+LAG18	Reads-based	All SVs	2599
+LAG24	Graph-based	Insertion	4794
+LAG24	Graph-based	Deletion	2352
+LAG24	Graph-based	All SVs	7146
+LAG24	Reads-based	Insertion	12
+LAG24	Reads-based	Deletion	2161
+LAG24	Reads-based	All SVs	2173
+LAG25	Graph-based	Insertion	6036
+LAG25	Graph-based	Deletion	2565
+LAG25	Graph-based	All SVs	8601
+LAG25	Reads-based	Insertion	20
+LAG25	Reads-based	Deletion	2956
+LAG25	Reads-based	All SVs	2976
+LAG2	Graph-based	Insertion	4274
+LAG2	Graph-based	Deletion	2462
+LAG2	Graph-based	All SVs	6736
+LAG2	Reads-based	Insertion	6
+LAG2	Reads-based	Deletion	1684
+LAG2	Reads-based	All SVs	1690
+LAG38	Graph-based	Insertion	5007
+LAG38	Graph-based	Deletion	2394
+LAG38	Graph-based	All SVs	7401
+LAG38	Reads-based	Insertion	8
+LAG38	Reads-based	Deletion	2145
+LAG38	Reads-based	All SVs	2153
+LAG48	Graph-based	Insertion	4883
+LAG48	Graph-based	Deletion	2494
+LAG48	Graph-based	All SVs	7377
+LAG48	Reads-based	Insertion	6
+LAG48	Reads-based	Deletion	2321
+LAG48	Reads-based	All SVs	2327
+LAG4	Graph-based	Insertion	5430
+LAG4	Graph-based	Deletion	2445
+LAG4	Graph-based	All SVs	7875
+LAG4	Reads-based	Insertion	12
+LAG4	Reads-based	Deletion	2345
+LAG4	Reads-based	All SVs	2357
+LAG5	Graph-based	Insertion	5359
+LAG5	Graph-based	Deletion	2452
+LAG5	Graph-based	All SVs	7811
+LAG5	Reads-based	Insertion	12
+LAG5	Reads-based	Deletion	2261
+LAG5	Reads-based	All SVs	2273
+LAG8	Graph-based	Insertion	5641
+LAG8	Graph-based	Deletion	2598
+LAG8	Graph-based	All SVs	8239
+LAG8	Reads-based	Insertion	10
+LAG8	Reads-based	Deletion	2558
+LAG8	Reads-based	All SVs	2568
+LAM4_47	Graph-based	Insertion	4888
+LAM4_47	Graph-based	Deletion	2215
+LAM4_47	Graph-based	All SVs	7103
+LAM4_47	Reads-based	Insertion	6
+LAM4_47	Reads-based	Deletion	1579
+LAM4_47	Reads-based	All SVs	1585
+LAM5_73	Graph-based	Insertion	5393
+LAM5_73	Graph-based	Deletion	2404
+LAM5_73	Graph-based	All SVs	7797
+LAM5_73	Reads-based	Insertion	5
+LAM5_73	Reads-based	Deletion	2326
+LAM5_73	Reads-based	All SVs	2331
+LAM7104	Graph-based	Insertion	4511
+LAM7104	Graph-based	Deletion	2250
+LAM7104	Graph-based	All SVs	6761
+LAM7104	Reads-based	Insertion	4
+LAM7104	Reads-based	Deletion	1600
+LAM7104	Reads-based	All SVs	1604
+LAM7132	Graph-based	Insertion	5728
+LAM7132	Graph-based	Deletion	2321
+LAM7132	Graph-based	All SVs	8049
+LAM7132	Reads-based	Insertion	13
+LAM7132	Reads-based	Deletion	2206
+LAM7132	Reads-based	All SVs	2219
+LAM7_32	Graph-based	Insertion	5103
+LAM7_32	Graph-based	Deletion	2256
+LAM7_32	Graph-based	All SVs	7359
+LAM7_32	Reads-based	Insertion	12
+LAM7_32	Reads-based	Deletion	2213
+LAM7_32	Reads-based	All SVs	2225
+LAM768	Graph-based	Insertion	5220
+LAM768	Graph-based	Deletion	2448
+LAM768	Graph-based	All SVs	7668
+LAM768	Reads-based	Insertion	6
+LAM768	Reads-based	Deletion	2109
+LAM768	Reads-based	All SVs	2115
+LAM793	Graph-based	Insertion	5697
+LAM793	Graph-based	Deletion	2439
+LAM793	Graph-based	All SVs	8136
+LAM793	Reads-based	Insertion	8
+LAM793	Reads-based	Deletion	2361
+LAM793	Reads-based	All SVs	2369
+LAM8135	Graph-based	Insertion	5429
+LAM8135	Graph-based	Deletion	2345
+LAM8135	Graph-based	All SVs	7774
+LAM8135	Reads-based	Insertion	9
+LAM8135	Reads-based	Deletion	1978
+LAM8135	Reads-based	All SVs	1987
+LAM8151	Graph-based	Insertion	5474
+LAM8151	Graph-based	Deletion	2352
+LAM8151	Graph-based	All SVs	7826
+LAM8151	Reads-based	Insertion	9
+LAM8151	Reads-based	Deletion	2171
+LAM8151	Reads-based	All SVs	2180
+LAM8158	Graph-based	Insertion	3889
+LAM8158	Graph-based	Deletion	2092
+LAM8158	Graph-based	All SVs	5981
+LAM8158	Reads-based	Insertion	1
+LAM8158	Reads-based	Deletion	1147
+LAM8158	Reads-based	All SVs	1148
+LDG10	Graph-based	Insertion	2191
+LDG10	Graph-based	Deletion	1801
+LDG10	Graph-based	All SVs	3992
+LDG10	Reads-based	Insertion	4
+LDG10	Reads-based	Deletion	1051
+LDG10	Reads-based	All SVs	1055
+LDG1	Graph-based	Insertion	4890
+LDG1	Graph-based	Deletion	2362
+LDG1	Graph-based	All SVs	7252
+LDG1	Reads-based	Insertion	12
+LDG1	Reads-based	Deletion	2111
+LDG1	Reads-based	All SVs	2123
+LDG2	Graph-based	Insertion	4603
+LDG2	Graph-based	Deletion	2307
+LDG2	Graph-based	All SVs	6910
+LDG2	Reads-based	Insertion	10
+LDG2	Reads-based	Deletion	1891
+LDG2	Reads-based	All SVs	1901
+LDG3	Graph-based	Insertion	4297
+LDG3	Graph-based	Deletion	2347
+LDG3	Graph-based	All SVs	6644
+LDG3	Reads-based	Insertion	7
+LDG3	Reads-based	Deletion	1744
+LDG3	Reads-based	All SVs	1751
+LDG4	Graph-based	Insertion	4168
+LDG4	Graph-based	Deletion	2394
+LDG4	Graph-based	All SVs	6562
+LDG4	Reads-based	Insertion	11
+LDG4	Reads-based	Deletion	1860
+LDG4	Reads-based	All SVs	1871
+LDG5	Graph-based	Insertion	4578
+LDG5	Graph-based	Deletion	2416
+LDG5	Graph-based	All SVs	6994
+LDG5	Reads-based	Insertion	6
+LDG5	Reads-based	Deletion	2119
+LDG5	Reads-based	All SVs	2125
+LDG6	Graph-based	Insertion	4370
+LDG6	Graph-based	Deletion	2334
+LDG6	Graph-based	All SVs	6704
+LDG6	Reads-based	Insertion	13
+LDG6	Reads-based	Deletion	1981
+LDG6	Reads-based	All SVs	1994
+LDG7	Graph-based	Insertion	3852
+LDG7	Graph-based	Deletion	2343
+LDG7	Graph-based	All SVs	6195
+LDG7	Reads-based	Insertion	9
+LDG7	Reads-based	Deletion	1543
+LDG7	Reads-based	All SVs	1552
+LDG8	Graph-based	Insertion	3862
+LDG8	Graph-based	Deletion	2256
+LDG8	Graph-based	All SVs	6118
+LDG8	Reads-based	Insertion	4
+LDG8	Reads-based	Deletion	1517
+LDG8	Reads-based	All SVs	1521
+LDG9	Graph-based	Insertion	4030
+LDG9	Graph-based	Deletion	2385
+LDG9	Graph-based	All SVs	6415
+LDG9	Reads-based	Insertion	13
+LDG9	Reads-based	Deletion	1922
+LDG9	Reads-based	All SVs	1935
+LDM16	Graph-based	Insertion	4657
+LDM16	Graph-based	Deletion	2235
+LDM16	Graph-based	All SVs	6892
+LDM16	Reads-based	Insertion	5
+LDM16	Reads-based	Deletion	1932
+LDM16	Reads-based	All SVs	1937
+LDM17	Graph-based	Insertion	4408
+LDM17	Graph-based	Deletion	2414
+LDM17	Graph-based	All SVs	6822
+LDM17	Reads-based	Insertion	0
+LDM17	Reads-based	Deletion	1227
+LDM17	Reads-based	All SVs	1227
+LDM18	Graph-based	Insertion	4659
+LDM18	Graph-based	Deletion	2241
+LDM18	Graph-based	All SVs	6900
+LDM18	Reads-based	Insertion	4
+LDM18	Reads-based	Deletion	1632
+LDM18	Reads-based	All SVs	1636
+LDM19	Graph-based	Insertion	6499
+LDM19	Graph-based	Deletion	2383
+LDM19	Graph-based	All SVs	8882
+LDM19	Reads-based	Insertion	16
+LDM19	Reads-based	Deletion	2673
+LDM19	Reads-based	All SVs	2689
+LDM20	Graph-based	Insertion	3973
+LDM20	Graph-based	Deletion	2244
+LDM20	Graph-based	All SVs	6217
+LDM20	Reads-based	Insertion	5
+LDM20	Reads-based	Deletion	1355
+LDM20	Reads-based	All SVs	1360
+LDM21	Graph-based	Insertion	4851
+LDM21	Graph-based	Deletion	2404
+LDM21	Graph-based	All SVs	7255
+LDM21	Reads-based	Insertion	6
+LDM21	Reads-based	Deletion	1975
+LDM21	Reads-based	All SVs	1981
+LDM22	Graph-based	Insertion	3737
+LDM22	Graph-based	Deletion	2163
+LDM22	Graph-based	All SVs	5900
+LDM22	Reads-based	Insertion	4
+LDM22	Reads-based	Deletion	1301
+LDM22	Reads-based	All SVs	1305
+LDM28	Graph-based	Insertion	3930
+LDM28	Graph-based	Deletion	2105
+LDM28	Graph-based	All SVs	6035
+LDM28	Reads-based	Insertion	1
+LDM28	Reads-based	Deletion	1136
+LDM28	Reads-based	All SVs	1137
+LDM29	Graph-based	Insertion	4271
+LDM29	Graph-based	Deletion	2238
+LDM29	Graph-based	All SVs	6509
+LDM29	Reads-based	Insertion	11
+LDM29	Reads-based	Deletion	1510
+LDM29	Reads-based	All SVs	1521
+LDM30	Graph-based	Insertion	4163
+LDM30	Graph-based	Deletion	2168
+LDM30	Graph-based	All SVs	6331
+LDM30	Reads-based	Insertion	3
+LDM30	Reads-based	Deletion	1311
+LDM30	Reads-based	All SVs	1314
+LinD10	Graph-based	Insertion	7269
+LinD10	Graph-based	Deletion	2739
+LinD10	Graph-based	All SVs	10008
+LinD10	Reads-based	Insertion	265
+LinD10	Reads-based	Deletion	5859
+LinD10	Reads-based	All SVs	6124
+LinD11	Graph-based	Insertion	6897
+LinD11	Graph-based	Deletion	2765
+LinD11	Graph-based	All SVs	9662
+LinD11	Reads-based	Insertion	214
+LinD11	Reads-based	Deletion	6112
+LinD11	Reads-based	All SVs	6326
+LinD12	Graph-based	Insertion	6885
+LinD12	Graph-based	Deletion	2706
+LinD12	Graph-based	All SVs	9591
+LinD12	Reads-based	Insertion	175
+LinD12	Reads-based	Deletion	5170
+LinD12	Reads-based	All SVs	5345
+LinD13	Graph-based	Insertion	7348
+LinD13	Graph-based	Deletion	2752
+LinD13	Graph-based	All SVs	10100
+LinD13	Reads-based	Insertion	267
+LinD13	Reads-based	Deletion	6536
+LinD13	Reads-based	All SVs	6803
+LinD14	Graph-based	Insertion	7356
+LinD14	Graph-based	Deletion	2806
+LinD14	Graph-based	All SVs	10162
+LinD14	Reads-based	Insertion	267
+LinD14	Reads-based	Deletion	6284
+LinD14	Reads-based	All SVs	6551
+LinD15	Graph-based	Insertion	7193
+LinD15	Graph-based	Deletion	2746
+LinD15	Graph-based	All SVs	9939
+LinD15	Reads-based	Insertion	249
+LinD15	Reads-based	Deletion	6472
+LinD15	Reads-based	All SVs	6721
+LinD16	Graph-based	Insertion	7630
+LinD16	Graph-based	Deletion	2801
+LinD16	Graph-based	All SVs	10431
+LinD16	Reads-based	Insertion	282
+LinD16	Reads-based	Deletion	6398
+LinD16	Reads-based	All SVs	6680
+LinD17	Graph-based	Insertion	6876
+LinD17	Graph-based	Deletion	2769
+LinD17	Graph-based	All SVs	9645
+LinD17	Reads-based	Insertion	203
+LinD17	Reads-based	Deletion	5580
+LinD17	Reads-based	All SVs	5783
+LinD18	Graph-based	Insertion	6798
+LinD18	Graph-based	Deletion	2746
+LinD18	Graph-based	All SVs	9544
+LinD18	Reads-based	Insertion	185
+LinD18	Reads-based	Deletion	5228
+LinD18	Reads-based	All SVs	5413
+LinD19	Graph-based	Insertion	7423
+LinD19	Graph-based	Deletion	2777
+LinD19	Graph-based	All SVs	10200
+LinD19	Reads-based	Insertion	216
+LinD19	Reads-based	Deletion	6300
+LinD19	Reads-based	All SVs	6516
+LinD1	Graph-based	Insertion	6844
+LinD1	Graph-based	Deletion	34064
+LinD1	Graph-based	All SVs	40908
+LinD1	Reads-based	Insertion	217
+LinD1	Reads-based	Deletion	75590
+LinD1	Reads-based	All SVs	75807
+LinD20	Graph-based	Insertion	6710
+LinD20	Graph-based	Deletion	2685
+LinD20	Graph-based	All SVs	9395
+LinD20	Reads-based	Insertion	176
+LinD20	Reads-based	Deletion	5108
+LinD20	Reads-based	All SVs	5284
+LinD21	Graph-based	Insertion	6348
+LinD21	Graph-based	Deletion	2687
+LinD21	Graph-based	All SVs	9035
+LinD21	Reads-based	Insertion	104
+LinD21	Reads-based	Deletion	4609
+LinD21	Reads-based	All SVs	4713
+LinD22	Graph-based	Insertion	6284
+LinD22	Graph-based	Deletion	2631
+LinD22	Graph-based	All SVs	8915
+LinD22	Reads-based	Insertion	118
+LinD22	Reads-based	Deletion	4615
+LinD22	Reads-based	All SVs	4733
+LinD23	Graph-based	Insertion	7011
+LinD23	Graph-based	Deletion	2765
+LinD23	Graph-based	All SVs	9776
+LinD23	Reads-based	Insertion	162
+LinD23	Reads-based	Deletion	5498
+LinD23	Reads-based	All SVs	5660
+LinD24	Graph-based	Insertion	7041
+LinD24	Graph-based	Deletion	2741
+LinD24	Graph-based	All SVs	9782
+LinD24	Reads-based	Insertion	172
+LinD24	Reads-based	Deletion	5452
+LinD24	Reads-based	All SVs	5624
+LinD25	Graph-based	Insertion	7006
+LinD25	Graph-based	Deletion	2719
+LinD25	Graph-based	All SVs	9725
+LinD25	Reads-based	Insertion	201
+LinD25	Reads-based	Deletion	5737
+LinD25	Reads-based	All SVs	5938
+LinD26	Graph-based	Insertion	7357
+LinD26	Graph-based	Deletion	2829
+LinD26	Graph-based	All SVs	10186
+LinD26	Reads-based	Insertion	171
+LinD26	Reads-based	Deletion	5899
+LinD26	Reads-based	All SVs	6070
+LinD27	Graph-based	Insertion	7830
+LinD27	Graph-based	Deletion	2848
+LinD27	Graph-based	All SVs	10678
+LinD27	Reads-based	Insertion	267
+LinD27	Reads-based	Deletion	6724
+LinD27	Reads-based	All SVs	6991
+LinD28	Graph-based	Insertion	6750
+LinD28	Graph-based	Deletion	2677
+LinD28	Graph-based	All SVs	9427
+LinD28	Reads-based	Insertion	144
+LinD28	Reads-based	Deletion	5014
+LinD28	Reads-based	All SVs	5158
+LinD29	Graph-based	Insertion	7103
+LinD29	Graph-based	Deletion	2805
+LinD29	Graph-based	All SVs	9908
+LinD29	Reads-based	Insertion	207
+LinD29	Reads-based	Deletion	6258
+LinD29	Reads-based	All SVs	6465
+LinD2	Graph-based	Insertion	7524
+LinD2	Graph-based	Deletion	2790
+LinD2	Graph-based	All SVs	10314
+LinD2	Reads-based	Insertion	211
+LinD2	Reads-based	Deletion	7215
+LinD2	Reads-based	All SVs	7426
+LinD30	Graph-based	Insertion	7229
+LinD30	Graph-based	Deletion	2811
+LinD30	Graph-based	All SVs	10040
+LinD30	Reads-based	Insertion	243
+LinD30	Reads-based	Deletion	6593
+LinD30	Reads-based	All SVs	6836
+LinD3	Graph-based	Insertion	7411
+LinD3	Graph-based	Deletion	32530
+LinD3	Graph-based	All SVs	39941
+LinD3	Reads-based	Insertion	216
+LinD3	Reads-based	Deletion	75431
+LinD3	Reads-based	All SVs	75647
+LinD4	Graph-based	Insertion	6653
+LinD4	Graph-based	Deletion	33910
+LinD4	Graph-based	All SVs	40563
+LinD4	Reads-based	Insertion	130
+LinD4	Reads-based	Deletion	74702
+LinD4	Reads-based	All SVs	74832
+LinD5	Graph-based	Insertion	6897
+LinD5	Graph-based	Deletion	33766
+LinD5	Graph-based	All SVs	40663
+LinD5	Reads-based	Insertion	162
+LinD5	Reads-based	Deletion	74400
+LinD5	Reads-based	All SVs	74562
+LinD6	Graph-based	Insertion	6825
+LinD6	Graph-based	Deletion	2802
+LinD6	Graph-based	All SVs	9627
+LinD6	Reads-based	Insertion	133
+LinD6	Reads-based	Deletion	6492
+LinD6	Reads-based	All SVs	6625
+LinD7	Graph-based	Insertion	6585
+LinD7	Graph-based	Deletion	2690
+LinD7	Graph-based	All SVs	9275
+LinD7	Reads-based	Insertion	121
+LinD7	Reads-based	Deletion	5881
+LinD7	Reads-based	All SVs	6002
+LinD8	Graph-based	Insertion	6521
+LinD8	Graph-based	Deletion	2642
+LinD8	Graph-based	All SVs	9163
+LinD8	Reads-based	Insertion	186
+LinD8	Reads-based	Deletion	4924
+LinD8	Reads-based	All SVs	5110
+LinD9	Graph-based	Insertion	7003
+LinD9	Graph-based	Deletion	2665
+LinD9	Graph-based	All SVs	9668
+LinD9	Reads-based	Insertion	227
+LinD9	Reads-based	Deletion	5641
+LinD9	Reads-based	All SVs	5868
+RJFi10	Graph-based	Insertion	32
+RJFi10	Graph-based	Deletion	235
+RJFi10	Graph-based	All SVs	267
+RJFi10	Reads-based	Insertion	0
+RJFi10	Reads-based	Deletion	784
+RJFi10	Reads-based	All SVs	784
+RJFi1	Graph-based	Insertion	93
+RJFi1	Graph-based	Deletion	485
+RJFi1	Graph-based	All SVs	578
+RJFi1	Reads-based	Insertion	3
+RJFi1	Reads-based	Deletion	1080
+RJFi1	Reads-based	All SVs	1083
+RJFi2	Graph-based	Insertion	152
+RJFi2	Graph-based	Deletion	632
+RJFi2	Graph-based	All SVs	784
+RJFi2	Reads-based	Insertion	3
+RJFi2	Reads-based	Deletion	863
+RJFi2	Reads-based	All SVs	866
+RJFi3	Graph-based	Insertion	152
+RJFi3	Graph-based	Deletion	632
+RJFi3	Graph-based	All SVs	784
+RJFi3	Reads-based	Insertion	4
+RJFi3	Reads-based	Deletion	861
+RJFi3	Reads-based	All SVs	865
+RJFi4	Graph-based	Insertion	132
+RJFi4	Graph-based	Deletion	587
+RJFi4	Graph-based	All SVs	719
+RJFi4	Reads-based	Insertion	0
+RJFi4	Reads-based	Deletion	1260
+RJFi4	Reads-based	All SVs	1260
+RJFi5	Graph-based	Insertion	112
+RJFi5	Graph-based	Deletion	537
+RJFi5	Graph-based	All SVs	649
+RJFi5	Reads-based	Insertion	3
+RJFi5	Reads-based	Deletion	846
+RJFi5	Reads-based	All SVs	849
+RJFi6	Graph-based	Insertion	83
+RJFi6	Graph-based	Deletion	518
+RJFi6	Graph-based	All SVs	601
+RJFi6	Reads-based	Insertion	5
+RJFi6	Reads-based	Deletion	1099
+RJFi6	Reads-based	All SVs	1104
+RJFi7	Graph-based	Insertion	48
+RJFi7	Graph-based	Deletion	350
+RJFi7	Graph-based	All SVs	398
+RJFi7	Reads-based	Insertion	2
+RJFi7	Reads-based	Deletion	547
+RJFi7	Reads-based	All SVs	549
+RJFi8	Graph-based	Insertion	100
+RJFi8	Graph-based	Deletion	565
+RJFi8	Graph-based	All SVs	665
+RJFi8	Reads-based	Insertion	4
+RJFi8	Reads-based	Deletion	770
+RJFi8	Reads-based	All SVs	774
+RJFi9	Graph-based	Insertion	53
+RJFi9	Graph-based	Deletion	326
+RJFi9	Graph-based	All SVs	379
+RJFi9	Reads-based	Insertion	1
+RJFi9	Reads-based	Deletion	919
+RJFi9	Reads-based	All SVs	920
+RJFt10	Graph-based	Insertion	3131
+RJFt10	Graph-based	Deletion	1880
+RJFt10	Graph-based	All SVs	5011
+RJFt10	Reads-based	Insertion	120
+RJFt10	Reads-based	Deletion	2746
+RJFt10	Reads-based	All SVs	2866
+RJFt11	Graph-based	Insertion	2950
+RJFt11	Graph-based	Deletion	1985
+RJFt11	Graph-based	All SVs	4935
+RJFt11	Reads-based	Insertion	110
+RJFt11	Reads-based	Deletion	2842
+RJFt11	Reads-based	All SVs	2952
+RJFt12	Graph-based	Insertion	3355
+RJFt12	Graph-based	Deletion	2006
+RJFt12	Graph-based	All SVs	5361
+RJFt12	Reads-based	Insertion	146
+RJFt12	Reads-based	Deletion	3014
+RJFt12	Reads-based	All SVs	3160
+RJFt13	Graph-based	Insertion	2992
+RJFt13	Graph-based	Deletion	1884
+RJFt13	Graph-based	All SVs	4876
+RJFt13	Reads-based	Insertion	142
+RJFt13	Reads-based	Deletion	2954
+RJFt13	Reads-based	All SVs	3096
+RJFt14	Graph-based	Insertion	3168
+RJFt14	Graph-based	Deletion	1908
+RJFt14	Graph-based	All SVs	5076
+RJFt14	Reads-based	Insertion	143
+RJFt14	Reads-based	Deletion	3134
+RJFt14	Reads-based	All SVs	3277
+RJFt15	Graph-based	Insertion	3500
+RJFt15	Graph-based	Deletion	1951
+RJFt15	Graph-based	All SVs	5451
+RJFt15	Reads-based	Insertion	158
+RJFt15	Reads-based	Deletion	2940
+RJFt15	Reads-based	All SVs	3098
+RJFt16	Graph-based	Insertion	3550
+RJFt16	Graph-based	Deletion	1976
+RJFt16	Graph-based	All SVs	5526
+RJFt16	Reads-based	Insertion	138
+RJFt16	Reads-based	Deletion	2952
+RJFt16	Reads-based	All SVs	3090
+RJFt17	Graph-based	Insertion	3606
+RJFt17	Graph-based	Deletion	1981
+RJFt17	Graph-based	All SVs	5587
+RJFt17	Reads-based	Insertion	139
+RJFt17	Reads-based	Deletion	3079
+RJFt17	Reads-based	All SVs	3218
+RJFt18	Graph-based	Insertion	3186
+RJFt18	Graph-based	Deletion	1986
+RJFt18	Graph-based	All SVs	5172
+RJFt18	Reads-based	Insertion	151
+RJFt18	Reads-based	Deletion	3158
+RJFt18	Reads-based	All SVs	3309
+RJFt19	Graph-based	Insertion	3919
+RJFt19	Graph-based	Deletion	1975
+RJFt19	Graph-based	All SVs	5894
+RJFt19	Reads-based	Insertion	183
+RJFt19	Reads-based	Deletion	3217
+RJFt19	Reads-based	All SVs	3400
+RJFt1	Graph-based	Insertion	3893
+RJFt1	Graph-based	Deletion	1894
+RJFt1	Graph-based	All SVs	5787
+RJFt1	Reads-based	Insertion	185
+RJFt1	Reads-based	Deletion	3525
+RJFt1	Reads-based	All SVs	3710
+RJFt20	Graph-based	Insertion	3438
+RJFt20	Graph-based	Deletion	2011
+RJFt20	Graph-based	All SVs	5449
+RJFt20	Reads-based	Insertion	152
+RJFt20	Reads-based	Deletion	2907
+RJFt20	Reads-based	All SVs	3059
+RJFt21	Graph-based	Insertion	3594
+RJFt21	Graph-based	Deletion	2014
+RJFt21	Graph-based	All SVs	5608
+RJFt21	Reads-based	Insertion	150
+RJFt21	Reads-based	Deletion	3008
+RJFt21	Reads-based	All SVs	3158
+RJFt22	Graph-based	Insertion	3843
+RJFt22	Graph-based	Deletion	1960
+RJFt22	Graph-based	All SVs	5803
+RJFt22	Reads-based	Insertion	201
+RJFt22	Reads-based	Deletion	3204
+RJFt22	Reads-based	All SVs	3405
+RJFt23	Graph-based	Insertion	3454
+RJFt23	Graph-based	Deletion	1946
+RJFt23	Graph-based	All SVs	5400
+RJFt23	Reads-based	Insertion	156
+RJFt23	Reads-based	Deletion	3037
+RJFt23	Reads-based	All SVs	3193
+RJFt24	Graph-based	Insertion	3422
+RJFt24	Graph-based	Deletion	1902
+RJFt24	Graph-based	All SVs	5324
+RJFt24	Reads-based	Insertion	161
+RJFt24	Reads-based	Deletion	3159
+RJFt24	Reads-based	All SVs	3320
+RJFt25	Graph-based	Insertion	3301
+RJFt25	Graph-based	Deletion	1888
+RJFt25	Graph-based	All SVs	5189
+RJFt25	Reads-based	Insertion	173
+RJFt25	Reads-based	Deletion	3177
+RJFt25	Reads-based	All SVs	3350
+RJFt2	Graph-based	Insertion	3961
+RJFt2	Graph-based	Deletion	2116
+RJFt2	Graph-based	All SVs	6077
+RJFt2	Reads-based	Insertion	186
+RJFt2	Reads-based	Deletion	3409
+RJFt2	Reads-based	All SVs	3595
+RJFt3	Graph-based	Insertion	3543
+RJFt3	Graph-based	Deletion	1916
+RJFt3	Graph-based	All SVs	5459
+RJFt3	Reads-based	Insertion	135
+RJFt3	Reads-based	Deletion	2853
+RJFt3	Reads-based	All SVs	2988
+RJFt4	Graph-based	Insertion	3144
+RJFt4	Graph-based	Deletion	1952
+RJFt4	Graph-based	All SVs	5096
+RJFt4	Reads-based	Insertion	118
+RJFt4	Reads-based	Deletion	2979
+RJFt4	Reads-based	All SVs	3097
+RJFt5	Graph-based	Insertion	2913
+RJFt5	Graph-based	Deletion	1918
+RJFt5	Graph-based	All SVs	4831
+RJFt5	Reads-based	Insertion	121
+RJFt5	Reads-based	Deletion	2891
+RJFt5	Reads-based	All SVs	3012
+RJFt6	Graph-based	Insertion	3874
+RJFt6	Graph-based	Deletion	1972
+RJFt6	Graph-based	All SVs	5846
+RJFt6	Reads-based	Insertion	177
+RJFt6	Reads-based	Deletion	3254
+RJFt6	Reads-based	All SVs	3431
+RJFt7	Graph-based	Insertion	3692
+RJFt7	Graph-based	Deletion	2032
+RJFt7	Graph-based	All SVs	5724
+RJFt7	Reads-based	Insertion	166
+RJFt7	Reads-based	Deletion	3202
+RJFt7	Reads-based	All SVs	3368
+RJFt8	Graph-based	Insertion	3219
+RJFt8	Graph-based	Deletion	1972
+RJFt8	Graph-based	All SVs	5191
+RJFt8	Reads-based	Insertion	142
+RJFt8	Reads-based	Deletion	2851
+RJFt8	Reads-based	All SVs	2993
+RJFt9	Graph-based	Insertion	3493
+RJFt9	Graph-based	Deletion	1884
+RJFt9	Graph-based	All SVs	5377
+RJFt9	Reads-based	Insertion	208
+RJFt9	Reads-based	Deletion	3049
+RJFt9	Reads-based	All SVs	3257
+TCG1	Graph-based	Insertion	4328
+TCG1	Graph-based	Deletion	2470
+TCG1	Graph-based	All SVs	6798
+TCG1	Reads-based	Insertion	9
+TCG1	Reads-based	Deletion	1947
+TCG1	Reads-based	All SVs	1956
+TCG2	Graph-based	Insertion	3540
+TCG2	Graph-based	Deletion	2471
+TCG2	Graph-based	All SVs	6011
+TCG2	Reads-based	Insertion	16
+TCG2	Reads-based	Deletion	1720
+TCG2	Reads-based	All SVs	1736
+TCG3	Graph-based	Insertion	4911
+TCG3	Graph-based	Deletion	2441
+TCG3	Graph-based	All SVs	7352
+TCG3	Reads-based	Insertion	9
+TCG3	Reads-based	Deletion	2536
+TCG3	Reads-based	All SVs	2545
+TCM1	Graph-based	Insertion	3185
+TCM1	Graph-based	Deletion	2302
+TCM1	Graph-based	All SVs	5487
+TCM1	Reads-based	Insertion	9
+TCM1	Reads-based	Deletion	1339
+TCM1	Reads-based	All SVs	1348
+TCM2	Graph-based	Insertion	3339
+TCM2	Graph-based	Deletion	2405
+TCM2	Graph-based	All SVs	5744
+TCM2	Reads-based	Insertion	7
+TCM2	Reads-based	Deletion	1451
+TCM2	Reads-based	All SVs	1458
+TCM3	Graph-based	Insertion	5286
+TCM3	Graph-based	Deletion	2572
+TCM3	Graph-based	All SVs	7858
+TCM3	Reads-based	Insertion	8
+TCM3	Reads-based	Deletion	2242
+TCM3	Reads-based	All SVs	2250
+TNG10	Graph-based	Insertion	2545
+TNG10	Graph-based	Deletion	1778
+TNG10	Graph-based	All SVs	4323
+TNG10	Reads-based	Insertion	1
+TNG10	Reads-based	Deletion	890
+TNG10	Reads-based	All SVs	891
+TNG4	Graph-based	Insertion	6127
+TNG4	Graph-based	Deletion	2687
+TNG4	Graph-based	All SVs	8814
+TNG4	Reads-based	Insertion	34
+TNG4	Reads-based	Deletion	3727
+TNG4	Reads-based	All SVs	3761
+TNG5	Graph-based	Insertion	6761
+TNG5	Graph-based	Deletion	2736
+TNG5	Graph-based	All SVs	9497
+TNG5	Reads-based	Insertion	30
+TNG5	Reads-based	Deletion	3652
+TNG5	Reads-based	All SVs	3682
+TNG6	Graph-based	Insertion	6310
+TNG6	Graph-based	Deletion	2587
+TNG6	Graph-based	All SVs	8897
+TNG6	Reads-based	Insertion	42
+TNG6	Reads-based	Deletion	3527
+TNG6	Reads-based	All SVs	3569
+TNG7	Graph-based	Insertion	6320
+TNG7	Graph-based	Deletion	2737
+TNG7	Graph-based	All SVs	9057
+TNG7	Reads-based	Insertion	54
+TNG7	Reads-based	Deletion	3935
+TNG7	Reads-based	All SVs	3989
+TNG8	Graph-based	Insertion	6563
+TNG8	Graph-based	Deletion	2680
+TNG8	Graph-based	All SVs	9243
+TNG8	Reads-based	Insertion	29
+TNG8	Reads-based	Deletion	3434
+TNG8	Reads-based	All SVs	3463
+TNG9	Graph-based	Insertion	6088
+TNG9	Graph-based	Deletion	2676
+TNG9	Graph-based	All SVs	8764
+TNG9	Reads-based	Insertion	27
+TNG9	Reads-based	Deletion	3116
+TNG9	Reads-based	All SVs	3143
+TNM10	Graph-based	Insertion	5649
+TNM10	Graph-based	Deletion	2647
+TNM10	Graph-based	All SVs	8296
+TNM10	Reads-based	Insertion	19
+TNM10	Reads-based	Deletion	2661
+TNM10	Reads-based	All SVs	2680
+TNM4	Graph-based	Insertion	6794
+TNM4	Graph-based	Deletion	2805
+TNM4	Graph-based	All SVs	9599
+TNM4	Reads-based	Insertion	57
+TNM4	Reads-based	Deletion	4261
+TNM4	Reads-based	All SVs	4318
+TNM5	Graph-based	Insertion	6676
+TNM5	Graph-based	Deletion	2720
+TNM5	Graph-based	All SVs	9396
+TNM5	Reads-based	Insertion	29
+TNM5	Reads-based	Deletion	3610
+TNM5	Reads-based	All SVs	3639
+TNM6	Graph-based	Insertion	7156
+TNM6	Graph-based	Deletion	2728
+TNM6	Graph-based	All SVs	9884
+TNM6	Reads-based	Insertion	48
+TNM6	Reads-based	Deletion	4356
+TNM6	Reads-based	All SVs	4404
+TNM7	Graph-based	Insertion	6954
+TNM7	Graph-based	Deletion	2740
+TNM7	Graph-based	All SVs	9694
+TNM7	Reads-based	Insertion	38
+TNM7	Reads-based	Deletion	3983
+TNM7	Reads-based	All SVs	4021
+TNM8	Graph-based	Insertion	4975
+TNM8	Graph-based	Deletion	2405
+TNM8	Graph-based	All SVs	7380
+TNM8	Reads-based	Insertion	9
+TNM8	Reads-based	Deletion	2071
+TNM8	Reads-based	All SVs	2080
+TNM9	Graph-based	Insertion	6257
+TNM9	Graph-based	Deletion	2639
+TNM9	Graph-based	All SVs	8896
+TNM9	Reads-based	Insertion	24
+TNM9	Reads-based	Deletion	3374
+TNM9	Reads-based	All SVs	3398
+WBG10	Graph-based	Insertion	3853
+WBG10	Graph-based	Deletion	2258
+WBG10	Graph-based	All SVs	6111
+WBG10	Reads-based	Insertion	6
+WBG10	Reads-based	Deletion	1474
+WBG10	Reads-based	All SVs	1480
+WBG1	Graph-based	Insertion	4827
+WBG1	Graph-based	Deletion	2340
+WBG1	Graph-based	All SVs	7167
+WBG1	Reads-based	Insertion	13
+WBG1	Reads-based	Deletion	2049
+WBG1	Reads-based	All SVs	2062
+WBG2	Graph-based	Insertion	4769
+WBG2	Graph-based	Deletion	2294
+WBG2	Graph-based	All SVs	7063
+WBG2	Reads-based	Insertion	7
+WBG2	Reads-based	Deletion	2133
+WBG2	Reads-based	All SVs	2140
+WBG3	Graph-based	Insertion	4438
+WBG3	Graph-based	Deletion	2354
+WBG3	Graph-based	All SVs	6792
+WBG3	Reads-based	Insertion	3
+WBG3	Reads-based	Deletion	1897
+WBG3	Reads-based	All SVs	1900
+WBG4	Graph-based	Insertion	5454
+WBG4	Graph-based	Deletion	2505
+WBG4	Graph-based	All SVs	7959
+WBG4	Reads-based	Insertion	14
+WBG4	Reads-based	Deletion	2384
+WBG4	Reads-based	All SVs	2398
+WBG5	Graph-based	Insertion	5310
+WBG5	Graph-based	Deletion	2489
+WBG5	Graph-based	All SVs	7799
+WBG5	Reads-based	Insertion	14
+WBG5	Reads-based	Deletion	2517
+WBG5	Reads-based	All SVs	2531
+WBG6	Graph-based	Insertion	4021
+WBG6	Graph-based	Deletion	2390
+WBG6	Graph-based	All SVs	6411
+WBG6	Reads-based	Insertion	6
+WBG6	Reads-based	Deletion	1597
+WBG6	Reads-based	All SVs	1603
+WBG7	Graph-based	Insertion	4611
+WBG7	Graph-based	Deletion	2455
+WBG7	Graph-based	All SVs	7066
+WBG7	Reads-based	Insertion	9
+WBG7	Reads-based	Deletion	2228
+WBG7	Reads-based	All SVs	2237
+WBG8	Graph-based	Insertion	4957
+WBG8	Graph-based	Deletion	2472
+WBG8	Graph-based	All SVs	7429
+WBG8	Reads-based	Insertion	12
+WBG8	Reads-based	Deletion	2154
+WBG8	Reads-based	All SVs	2166
+WBG9	Graph-based	Insertion	4803
+WBG9	Graph-based	Deletion	2469
+WBG9	Graph-based	All SVs	7272
+WBG9	Reads-based	Insertion	7
+WBG9	Reads-based	Deletion	2032
+WBG9	Reads-based	All SVs	2039
+WBM10	Graph-based	Insertion	5108
+WBM10	Graph-based	Deletion	2446
+WBM10	Graph-based	All SVs	7554
+WBM10	Reads-based	Insertion	17
+WBM10	Reads-based	Deletion	2111
+WBM10	Reads-based	All SVs	2128
+WBM1	Graph-based	Insertion	5011
+WBM1	Graph-based	Deletion	2343
+WBM1	Graph-based	All SVs	7354
+WBM1	Reads-based	Insertion	4
+WBM1	Reads-based	Deletion	2089
+WBM1	Reads-based	All SVs	2093
+WBM2	Graph-based	Insertion	4472
+WBM2	Graph-based	Deletion	2295
+WBM2	Graph-based	All SVs	6767
+WBM2	Reads-based	Insertion	10
+WBM2	Reads-based	Deletion	1803
+WBM2	Reads-based	All SVs	1813
+WBM3	Graph-based	Insertion	4894
+WBM3	Graph-based	Deletion	2379
+WBM3	Graph-based	All SVs	7273
+WBM3	Reads-based	Insertion	8
+WBM3	Reads-based	Deletion	2069
+WBM3	Reads-based	All SVs	2077
+WBM4	Graph-based	Insertion	4850
+WBM4	Graph-based	Deletion	2414
+WBM4	Graph-based	All SVs	7264
+WBM4	Reads-based	Insertion	5
+WBM4	Reads-based	Deletion	1779
+WBM4	Reads-based	All SVs	1784
+WBM5	Graph-based	Insertion	5928
+WBM5	Graph-based	Deletion	2610
+WBM5	Graph-based	All SVs	8538
+WBM5	Reads-based	Insertion	22
+WBM5	Reads-based	Deletion	2824
+WBM5	Reads-based	All SVs	2846
+WBM6	Graph-based	Insertion	4804
+WBM6	Graph-based	Deletion	2398
+WBM6	Graph-based	All SVs	7202
+WBM6	Reads-based	Insertion	12
+WBM6	Reads-based	Deletion	1888
+WBM6	Reads-based	All SVs	1900
+WBM7	Graph-based	Insertion	5423
+WBM7	Graph-based	Deletion	2458
+WBM7	Graph-based	All SVs	7881
+WBM7	Reads-based	Insertion	12
+WBM7	Reads-based	Deletion	2327
+WBM7	Reads-based	All SVs	2339
+WBM8	Graph-based	Insertion	4193
+WBM8	Graph-based	Deletion	2221
+WBM8	Graph-based	All SVs	6414
+WBM8	Reads-based	Insertion	5
+WBM8	Reads-based	Deletion	1660
+WBM8	Reads-based	All SVs	1665
+WBM9	Graph-based	Insertion	5166
+WBM9	Graph-based	Deletion	2429
+WBM9	Graph-based	All SVs	7595
+WBM9	Reads-based	Insertion	12
+WBM9	Reads-based	Deletion	2170
+WBM9	Reads-based	All SVs	2182
+WJG10	Graph-based	Insertion	4789
+WJG10	Graph-based	Deletion	2423
+WJG10	Graph-based	All SVs	7212
+WJG10	Reads-based	Insertion	17
+WJG10	Reads-based	Deletion	2043
+WJG10	Reads-based	All SVs	2060
+WJG1	Graph-based	Insertion	5486
+WJG1	Graph-based	Deletion	2500
+WJG1	Graph-based	All SVs	7986
+WJG1	Reads-based	Insertion	23
+WJG1	Reads-based	Deletion	2756
+WJG1	Reads-based	All SVs	2779
+WJG2	Graph-based	Insertion	5081
+WJG2	Graph-based	Deletion	2498
+WJG2	Graph-based	All SVs	7579
+WJG2	Reads-based	Insertion	10
+WJG2	Reads-based	Deletion	2376
+WJG2	Reads-based	All SVs	2386
+WJG3	Graph-based	Insertion	4799
+WJG3	Graph-based	Deletion	2486
+WJG3	Graph-based	All SVs	7285
+WJG3	Reads-based	Insertion	10
+WJG3	Reads-based	Deletion	2242
+WJG3	Reads-based	All SVs	2252
+WJG4	Graph-based	Insertion	5467
+WJG4	Graph-based	Deletion	2564
+WJG4	Graph-based	All SVs	8031
+WJG4	Reads-based	Insertion	16
+WJG4	Reads-based	Deletion	2976
+WJG4	Reads-based	All SVs	2992
+WJG5	Graph-based	Insertion	5860
+WJG5	Graph-based	Deletion	2592
+WJG5	Graph-based	All SVs	8452
+WJG5	Reads-based	Insertion	22
+WJG5	Reads-based	Deletion	3006
+WJG5	Reads-based	All SVs	3028
+WJG6	Graph-based	Insertion	5452
+WJG6	Graph-based	Deletion	2551
+WJG6	Graph-based	All SVs	8003
+WJG6	Reads-based	Insertion	14
+WJG6	Reads-based	Deletion	2574
+WJG6	Reads-based	All SVs	2588
+WJG7	Graph-based	Insertion	4830
+WJG7	Graph-based	Deletion	2508
+WJG7	Graph-based	All SVs	7338
+WJG7	Reads-based	Insertion	10
+WJG7	Reads-based	Deletion	2048
+WJG7	Reads-based	All SVs	2058
+WJG8	Graph-based	Insertion	4689
+WJG8	Graph-based	Deletion	2527
+WJG8	Graph-based	All SVs	7216
+WJG8	Reads-based	Insertion	13
+WJG8	Reads-based	Deletion	2106
+WJG8	Reads-based	All SVs	2119
+WJG9	Graph-based	Insertion	4304
+WJG9	Graph-based	Deletion	2415
+WJG9	Graph-based	All SVs	6719
+WJG9	Reads-based	Insertion	4
+WJG9	Reads-based	Deletion	1736
+WJG9	Reads-based	All SVs	1740
+WJM10	Graph-based	Insertion	4730
+WJM10	Graph-based	Deletion	2441
+WJM10	Graph-based	All SVs	7171
+WJM10	Reads-based	Insertion	6
+WJM10	Reads-based	Deletion	1847
+WJM10	Reads-based	All SVs	1853
+WJM1	Graph-based	Insertion	5490
+WJM1	Graph-based	Deletion	2421
+WJM1	Graph-based	All SVs	7911
+WJM1	Reads-based	Insertion	17
+WJM1	Reads-based	Deletion	2167
+WJM1	Reads-based	All SVs	2184
+WJM2	Graph-based	Insertion	4578
+WJM2	Graph-based	Deletion	2385
+WJM2	Graph-based	All SVs	6963
+WJM2	Reads-based	Insertion	8
+WJM2	Reads-based	Deletion	1813
+WJM2	Reads-based	All SVs	1821
+WJM3	Graph-based	Insertion	5421
+WJM3	Graph-based	Deletion	2520
+WJM3	Graph-based	All SVs	7941
+WJM3	Reads-based	Insertion	15
+WJM3	Reads-based	Deletion	2210
+WJM3	Reads-based	All SVs	2225
+WJM4	Graph-based	Insertion	5827
+WJM4	Graph-based	Deletion	2550
+WJM4	Graph-based	All SVs	8377
+WJM4	Reads-based	Insertion	35
+WJM4	Reads-based	Deletion	3398
+WJM4	Reads-based	All SVs	3433
+WJM5	Graph-based	Insertion	4531
+WJM5	Graph-based	Deletion	2375
+WJM5	Graph-based	All SVs	6906
+WJM5	Reads-based	Insertion	7
+WJM5	Reads-based	Deletion	1790
+WJM5	Reads-based	All SVs	1797
+WJM6	Graph-based	Insertion	4256
+WJM6	Graph-based	Deletion	2383
+WJM6	Graph-based	All SVs	6639
+WJM6	Reads-based	Insertion	2
+WJM6	Reads-based	Deletion	1206
+WJM6	Reads-based	All SVs	1208
+WJM7	Graph-based	Insertion	4172
+WJM7	Graph-based	Deletion	2302
+WJM7	Graph-based	All SVs	6474
+WJM7	Reads-based	Insertion	3
+WJM7	Reads-based	Deletion	1642
+WJM7	Reads-based	All SVs	1645
+WJM8	Graph-based	Insertion	3821
+WJM8	Graph-based	Deletion	2299
+WJM8	Graph-based	All SVs	6120
+WJM8	Reads-based	Insertion	11
+WJM8	Reads-based	Deletion	1728
+WJM8	Reads-based	All SVs	1739
+WJM9	Graph-based	Insertion	5671
+WJM9	Graph-based	Deletion	2536
+WJM9	Graph-based	All SVs	8207
+WJM9	Reads-based	Insertion	9
+WJM9	Reads-based	Deletion	2672
+WJM9	Reads-based	All SVs	2681
+WL10	Graph-based	Insertion	2590
+WL10	Graph-based	Deletion	1863
+WL10	Graph-based	All SVs	4453
+WL10	Reads-based	Insertion	72
+WL10	Reads-based	Deletion	3288
+WL10	Reads-based	All SVs	3360
+WL11	Graph-based	Insertion	2038
+WL11	Graph-based	Deletion	1710
+WL11	Graph-based	All SVs	3748
+WL11	Reads-based	Insertion	43
+WL11	Reads-based	Deletion	2912
+WL11	Reads-based	All SVs	2955
+WL12	Graph-based	Insertion	2210
+WL12	Graph-based	Deletion	1774
+WL12	Graph-based	All SVs	3984
+WL12	Reads-based	Insertion	55
+WL12	Reads-based	Deletion	3012
+WL12	Reads-based	All SVs	3067
+WL13	Graph-based	Insertion	2199
+WL13	Graph-based	Deletion	1795
+WL13	Graph-based	All SVs	3994
+WL13	Reads-based	Insertion	60
+WL13	Reads-based	Deletion	2931
+WL13	Reads-based	All SVs	2991
+WL14	Graph-based	Insertion	2379
+WL14	Graph-based	Deletion	1811
+WL14	Graph-based	All SVs	4190
+WL14	Reads-based	Insertion	91
+WL14	Reads-based	Deletion	3078
+WL14	Reads-based	All SVs	3169
+WL15	Graph-based	Insertion	2387
+WL15	Graph-based	Deletion	1816
+WL15	Graph-based	All SVs	4203
+WL15	Reads-based	Insertion	64
+WL15	Reads-based	Deletion	2992
+WL15	Reads-based	All SVs	3056
+WL16	Graph-based	Insertion	2193
+WL16	Graph-based	Deletion	1751
+WL16	Graph-based	All SVs	3944
+WL16	Reads-based	Insertion	61
+WL16	Reads-based	Deletion	2904
+WL16	Reads-based	All SVs	2965
+WL17	Graph-based	Insertion	1471
+WL17	Graph-based	Deletion	1549
+WL17	Graph-based	All SVs	3020
+WL17	Reads-based	Insertion	18
+WL17	Reads-based	Deletion	2316
+WL17	Reads-based	All SVs	2334
+WL18	Graph-based	Insertion	1984
+WL18	Graph-based	Deletion	1688
+WL18	Graph-based	All SVs	3672
+WL18	Reads-based	Insertion	53
+WL18	Reads-based	Deletion	2706
+WL18	Reads-based	All SVs	2759
+WL19	Graph-based	Insertion	2228
+WL19	Graph-based	Deletion	1716
+WL19	Graph-based	All SVs	3944
+WL19	Reads-based	Insertion	59
+WL19	Reads-based	Deletion	2805
+WL19	Reads-based	All SVs	2864
+WL1	Graph-based	Insertion	1883
+WL1	Graph-based	Deletion	1635
+WL1	Graph-based	All SVs	3518
+WL1	Reads-based	Insertion	42
+WL1	Reads-based	Deletion	2726
+WL1	Reads-based	All SVs	2768
+WL20	Graph-based	Insertion	1821
+WL20	Graph-based	Deletion	1645
+WL20	Graph-based	All SVs	3466
+WL20	Reads-based	Insertion	44
+WL20	Reads-based	Deletion	2628
+WL20	Reads-based	All SVs	2672
+WL21	Graph-based	Insertion	2460
+WL21	Graph-based	Deletion	1808
+WL21	Graph-based	All SVs	4268
+WL21	Reads-based	Insertion	71
+WL21	Reads-based	Deletion	3106
+WL21	Reads-based	All SVs	3177
+WL22	Graph-based	Insertion	1441
+WL22	Graph-based	Deletion	1545
+WL22	Graph-based	All SVs	2986
+WL22	Reads-based	Insertion	18
+WL22	Reads-based	Deletion	2311
+WL22	Reads-based	All SVs	2329
+WL24	Graph-based	Insertion	1175
+WL24	Graph-based	Deletion	1428
+WL24	Graph-based	All SVs	2603
+WL24	Reads-based	Insertion	12
+WL24	Reads-based	Deletion	2137
+WL24	Reads-based	All SVs	2149
+WL25	Graph-based	Insertion	1629
+WL25	Graph-based	Deletion	1604
+WL25	Graph-based	All SVs	3233
+WL25	Reads-based	Insertion	17
+WL25	Reads-based	Deletion	2529
+WL25	Reads-based	All SVs	2546
+WL2	Graph-based	Insertion	1516
+WL2	Graph-based	Deletion	1555
+WL2	Graph-based	All SVs	3071
+WL2	Reads-based	Insertion	32
+WL2	Reads-based	Deletion	2388
+WL2	Reads-based	All SVs	2420
+WL3	Graph-based	Insertion	2408
+WL3	Graph-based	Deletion	1797
+WL3	Graph-based	All SVs	4205
+WL3	Reads-based	Insertion	62
+WL3	Reads-based	Deletion	3104
+WL3	Reads-based	All SVs	3166
+WL4	Graph-based	Insertion	3540
+WL4	Graph-based	Deletion	1959
+WL4	Graph-based	All SVs	5499
+WL4	Reads-based	Insertion	173
+WL4	Reads-based	Deletion	3907
+WL4	Reads-based	All SVs	4080
+WL5	Graph-based	Insertion	3302
+WL5	Graph-based	Deletion	1967
+WL5	Graph-based	All SVs	5269
+WL5	Reads-based	Insertion	151
+WL5	Reads-based	Deletion	3746
+WL5	Reads-based	All SVs	3897
+WL6	Graph-based	Insertion	3576
+WL6	Graph-based	Deletion	2008
+WL6	Graph-based	All SVs	5584
+WL6	Reads-based	Insertion	148
+WL6	Reads-based	Deletion	3947
+WL6	Reads-based	All SVs	4095
+WL7	Graph-based	Insertion	2782
+WL7	Graph-based	Deletion	1852
+WL7	Graph-based	All SVs	4634
+WL7	Reads-based	Insertion	100
+WL7	Reads-based	Deletion	3380
+WL7	Reads-based	All SVs	3480
+WL8	Graph-based	Insertion	3405
+WL8	Graph-based	Deletion	1960
+WL8	Graph-based	All SVs	5365
+WL8	Reads-based	Insertion	148
+WL8	Reads-based	Deletion	3758
+WL8	Reads-based	All SVs	3906
+WL9	Graph-based	Insertion	2536
+WL9	Graph-based	Deletion	1786
+WL9	Graph-based	All SVs	4322
+WL9	Reads-based	Insertion	74
+WL9	Reads-based	Deletion	3208
+WL9	Reads-based	All SVs	3282
+WYG10	Graph-based	Insertion	5069
+WYG10	Graph-based	Deletion	2487
+WYG10	Graph-based	All SVs	7556
+WYG10	Reads-based	Insertion	8
+WYG10	Reads-based	Deletion	2270
+WYG10	Reads-based	All SVs	2278
+WYG1	Graph-based	Insertion	4890
+WYG1	Graph-based	Deletion	2401
+WYG1	Graph-based	All SVs	7291
+WYG1	Reads-based	Insertion	11
+WYG1	Reads-based	Deletion	2162
+WYG1	Reads-based	All SVs	2173
+WYG2	Graph-based	Insertion	5082
+WYG2	Graph-based	Deletion	2500
+WYG2	Graph-based	All SVs	7582
+WYG2	Reads-based	Insertion	10
+WYG2	Reads-based	Deletion	2192
+WYG2	Reads-based	All SVs	2202
+WYG3	Graph-based	Insertion	4927
+WYG3	Graph-based	Deletion	2402
+WYG3	Graph-based	All SVs	7329
+WYG3	Reads-based	Insertion	9
+WYG3	Reads-based	Deletion	2106
+WYG3	Reads-based	All SVs	2115
+WYG4	Graph-based	Insertion	4293
+WYG4	Graph-based	Deletion	2324
+WYG4	Graph-based	All SVs	6617
+WYG4	Reads-based	Insertion	7
+WYG4	Reads-based	Deletion	1734
+WYG4	Reads-based	All SVs	1741
+WYG5	Graph-based	Insertion	4596
+WYG5	Graph-based	Deletion	2404
+WYG5	Graph-based	All SVs	7000
+WYG5	Reads-based	Insertion	12
+WYG5	Reads-based	Deletion	2295
+WYG5	Reads-based	All SVs	2307
+WYG6	Graph-based	Insertion	5053
+WYG6	Graph-based	Deletion	2573
+WYG6	Graph-based	All SVs	7626
+WYG6	Reads-based	Insertion	6
+WYG6	Reads-based	Deletion	2307
+WYG6	Reads-based	All SVs	2313
+WYG7	Graph-based	Insertion	4810
+WYG7	Graph-based	Deletion	2391
+WYG7	Graph-based	All SVs	7201
+WYG7	Reads-based	Insertion	10
+WYG7	Reads-based	Deletion	2203
+WYG7	Reads-based	All SVs	2213
+WYG8	Graph-based	Insertion	4647
+WYG8	Graph-based	Deletion	2471
+WYG8	Graph-based	All SVs	7118
+WYG8	Reads-based	Insertion	8
+WYG8	Reads-based	Deletion	1987
+WYG8	Reads-based	All SVs	1995
+WYG9	Graph-based	Insertion	5141
+WYG9	Graph-based	Deletion	2504
+WYG9	Graph-based	All SVs	7645
+WYG9	Reads-based	Insertion	18
+WYG9	Reads-based	Deletion	2667
+WYG9	Reads-based	All SVs	2685
+WYM10	Graph-based	Insertion	6081
+WYM10	Graph-based	Deletion	2670
+WYM10	Graph-based	All SVs	8751
+WYM10	Reads-based	Insertion	21
+WYM10	Reads-based	Deletion	2791
+WYM10	Reads-based	All SVs	2812
+WYM1	Graph-based	Insertion	5057
+WYM1	Graph-based	Deletion	2415
+WYM1	Graph-based	All SVs	7472
+WYM1	Reads-based	Insertion	13
+WYM1	Reads-based	Deletion	2024
+WYM1	Reads-based	All SVs	2037
+WYM2	Graph-based	Insertion	4752
+WYM2	Graph-based	Deletion	2346
+WYM2	Graph-based	All SVs	7098
+WYM2	Reads-based	Insertion	0
+WYM2	Reads-based	Deletion	1526
+WYM2	Reads-based	All SVs	1526
+WYM3	Graph-based	Insertion	5159
+WYM3	Graph-based	Deletion	2571
+WYM3	Graph-based	All SVs	7730
+WYM3	Reads-based	Insertion	9
+WYM3	Reads-based	Deletion	1519
+WYM3	Reads-based	All SVs	1528
+WYM4	Graph-based	Insertion	5012
+WYM4	Graph-based	Deletion	2490
+WYM4	Graph-based	All SVs	7502
+WYM4	Reads-based	Insertion	13
+WYM4	Reads-based	Deletion	1960
+WYM4	Reads-based	All SVs	1973
+WYM5	Graph-based	Insertion	5430
+WYM5	Graph-based	Deletion	2575
+WYM5	Graph-based	All SVs	8005
+WYM5	Reads-based	Insertion	21
+WYM5	Reads-based	Deletion	2929
+WYM5	Reads-based	All SVs	2950
+WYM6	Graph-based	Insertion	4556
+WYM6	Graph-based	Deletion	2389
+WYM6	Graph-based	All SVs	6945
+WYM6	Reads-based	Insertion	7
+WYM6	Reads-based	Deletion	1794
+WYM6	Reads-based	All SVs	1801
+WYM7	Graph-based	Insertion	5033
+WYM7	Graph-based	Deletion	2391
+WYM7	Graph-based	All SVs	7424
+WYM7	Reads-based	Insertion	15
+WYM7	Reads-based	Deletion	2223
+WYM7	Reads-based	All SVs	2238
+WYM8	Graph-based	Insertion	5461
+WYM8	Graph-based	Deletion	2573
+WYM8	Graph-based	All SVs	8034
+WYM8	Reads-based	Insertion	15
+WYM8	Reads-based	Deletion	2514
+WYM8	Reads-based	All SVs	2529
+WYM9	Graph-based	Insertion	5269
+WYM9	Graph-based	Deletion	2490
+WYM9	Graph-based	All SVs	7759
+WYM9	Reads-based	Insertion	16
+WYM9	Reads-based	Deletion	2399
+WYM9	Reads-based	All SVs	2415
+WZG10	Graph-based	Insertion	4809
+WZG10	Graph-based	Deletion	2544
+WZG10	Graph-based	All SVs	7353
+WZG10	Reads-based	Insertion	11
+WZG10	Reads-based	Deletion	2167
+WZG10	Reads-based	All SVs	2178
+WZG1	Graph-based	Insertion	4385
+WZG1	Graph-based	Deletion	2285
+WZG1	Graph-based	All SVs	6670
+WZG1	Reads-based	Insertion	7
+WZG1	Reads-based	Deletion	2050
+WZG1	Reads-based	All SVs	2057
+WZG2	Graph-based	Insertion	5001
+WZG2	Graph-based	Deletion	2428
+WZG2	Graph-based	All SVs	7429
+WZG2	Reads-based	Insertion	6
+WZG2	Reads-based	Deletion	2228
+WZG2	Reads-based	All SVs	2234
+WZG3	Graph-based	Insertion	5150
+WZG3	Graph-based	Deletion	2378
+WZG3	Graph-based	All SVs	7528
+WZG3	Reads-based	Insertion	11
+WZG3	Reads-based	Deletion	2355
+WZG3	Reads-based	All SVs	2366
+WZG4	Graph-based	Insertion	3786
+WZG4	Graph-based	Deletion	2319
+WZG4	Graph-based	All SVs	6105
+WZG4	Reads-based	Insertion	9
+WZG4	Reads-based	Deletion	1507
+WZG4	Reads-based	All SVs	1516
+WZG5	Graph-based	Insertion	4663
+WZG5	Graph-based	Deletion	2469
+WZG5	Graph-based	All SVs	7132
+WZG5	Reads-based	Insertion	10
+WZG5	Reads-based	Deletion	2192
+WZG5	Reads-based	All SVs	2202
+WZG6	Graph-based	Insertion	5387
+WZG6	Graph-based	Deletion	2484
+WZG6	Graph-based	All SVs	7871
+WZG6	Reads-based	Insertion	15
+WZG6	Reads-based	Deletion	2744
+WZG6	Reads-based	All SVs	2759
+WZG7	Graph-based	Insertion	5019
+WZG7	Graph-based	Deletion	2521
+WZG7	Graph-based	All SVs	7540
+WZG7	Reads-based	Insertion	14
+WZG7	Reads-based	Deletion	2222
+WZG7	Reads-based	All SVs	2236
+WZG8	Graph-based	Insertion	5272
+WZG8	Graph-based	Deletion	2487
+WZG8	Graph-based	All SVs	7759
+WZG8	Reads-based	Insertion	14
+WZG8	Reads-based	Deletion	2457
+WZG8	Reads-based	All SVs	2471
+WZG9	Graph-based	Insertion	4351
+WZG9	Graph-based	Deletion	2393
+WZG9	Graph-based	All SVs	6744
+WZG9	Reads-based	Insertion	10
+WZG9	Reads-based	Deletion	1825
+WZG9	Reads-based	All SVs	1835
+WZM10	Graph-based	Insertion	4301
+WZM10	Graph-based	Deletion	2279
+WZM10	Graph-based	All SVs	6580
+WZM10	Reads-based	Insertion	10
+WZM10	Reads-based	Deletion	1913
+WZM10	Reads-based	All SVs	1923
+WZM1	Graph-based	Insertion	4572
+WZM1	Graph-based	Deletion	2392
+WZM1	Graph-based	All SVs	6964
+WZM1	Reads-based	Insertion	12
+WZM1	Reads-based	Deletion	2115
+WZM1	Reads-based	All SVs	2127
+WZM2	Graph-based	Insertion	4743
+WZM2	Graph-based	Deletion	2271
+WZM2	Graph-based	All SVs	7014
+WZM2	Reads-based	Insertion	7
+WZM2	Reads-based	Deletion	1940
+WZM2	Reads-based	All SVs	1947
+WZM3	Graph-based	Insertion	4992
+WZM3	Graph-based	Deletion	2508
+WZM3	Graph-based	All SVs	7500
+WZM3	Reads-based	Insertion	24
+WZM3	Reads-based	Deletion	2351
+WZM3	Reads-based	All SVs	2375
+WZM4	Graph-based	Insertion	4443
+WZM4	Graph-based	Deletion	2245
+WZM4	Graph-based	All SVs	6688
+WZM4	Reads-based	Insertion	6
+WZM4	Reads-based	Deletion	1936
+WZM4	Reads-based	All SVs	1942
+WZM5	Graph-based	Insertion	4853
+WZM5	Graph-based	Deletion	2489
+WZM5	Graph-based	All SVs	7342
+WZM5	Reads-based	Insertion	6
+WZM5	Reads-based	Deletion	2078
+WZM5	Reads-based	All SVs	2084
+WZM6	Graph-based	Insertion	5062
+WZM6	Graph-based	Deletion	2443
+WZM6	Graph-based	All SVs	7505
+WZM6	Reads-based	Insertion	8
+WZM6	Reads-based	Deletion	2135
+WZM6	Reads-based	All SVs	2143
+WZM7	Graph-based	Insertion	5203
+WZM7	Graph-based	Deletion	2520
+WZM7	Graph-based	All SVs	7723
+WZM7	Reads-based	Insertion	22
+WZM7	Reads-based	Deletion	2188
+WZM7	Reads-based	All SVs	2210
+WZM8	Graph-based	Insertion	5637
+WZM8	Graph-based	Deletion	2505
+WZM8	Graph-based	All SVs	8142
+WZM8	Reads-based	Insertion	23
+WZM8	Reads-based	Deletion	2956
+WZM8	Reads-based	All SVs	2979
+WZM9	Graph-based	Insertion	5032
+WZM9	Graph-based	Deletion	2483
+WZM9	Graph-based	All SVs	7515
+WZM9	Reads-based	Insertion	11
+WZM9	Reads-based	Deletion	2238
+WZM9	Reads-based	All SVs	2249

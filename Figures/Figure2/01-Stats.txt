@@ -1,0 +1,5 @@
+SVtype	Type	Value
+Deletion	Count	81059
+Deletion	length	79340
+Insertion	Count	104146
+Insertion	length	86490
